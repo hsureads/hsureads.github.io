@@ -55,5 +55,6 @@ The above example Trello board contains some of my favorite articles from this p
 
 <a href="http://www.mtv.com/news/interactive/kirk-franklin-cover-story/">MTV: The gospel according to Kirk Franklin</a>
 
+<a href="https://www.theguardian.com/world/2016/oct/26/spy-couldnt-spell-how-biggest-heists-us-espionage-history-foiled">The Guardian: The spy who couldn't spell: how the biggest heist in the history of US espionage was foiled</a>
 
 So there you go. Happy reading, please let me know of any feedback by clicking on the contact links in the footer.
