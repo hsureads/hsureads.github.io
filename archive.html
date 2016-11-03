@@ -13,7 +13,7 @@ tags: archive
       <h3 class="archive-year">{{ post.date | date: '%Y' }}</h3>
     </div>
 
-    <ul>
+    <ul style="list-style: none;">
     {% else %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
@@ -23,7 +23,7 @@ tags: archive
       <h4 class="archive-year">{{ post.date | date: '%Y' }}</h4>
     </div>
 
-    <ul>
+    <ul style="list-style: none;">
     {% endif %}
     {% endunless %}
     <li>
