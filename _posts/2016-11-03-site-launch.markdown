@@ -10,6 +10,6 @@ If you know anything about me, I spend a large portion of my day scouring the in
 
 <h2>Trello Board Rundown</h2>
 
-<iframe src="https://trello.com/b/jZeQ2RWt.html" width=100% height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://trello.com/b/jZeQ2RWt.html" width="800" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 **Disclaimer: These articles are curated by me and thus will often reflect my own interests, beliefs, and biases. I don't pretend to be objective but hopefully we can have honest and kind discussions about our differences. I would love it if you shared well-written opposition views.
