@@ -28,14 +28,12 @@ The above example Trello board contains some of my favorite articles from this p
 <h4>A New Way to Think About Things</h4>
 
 <a href="https://www.theguardian.com/commentisfree/2016/oct/26/fetishisation-work-miserable-long-hours-poor-pay?">The Guardian: The fetishisation of work is making us miserable. Let's learn to live again</a>
-
-I don't actually agree with the utopia the writer proposes. But I still thought it was interesting.
+<p>I don't actually agree with the utopia the writer proposes. But I still thought it was interesting.</p>
 
 <h4>Hits Close to Home</h4>
 
 <a href="http://www.vox.com/policy-and-politics/2016/10/26/13413292/social-media-disrupting-politics">Vox: How social media creates angry, poorly informed partisans</a>
-
-If you had any question as to why I'm doing this, this article sums up the problem I am trying to address. I fear that it is too easy for me and you to be "angry, poorly informed partisans." I am not naive enough to think that I can solve the echo-chamber and clickbait problem, nor do I think that I am immune to it. So please, share your opposition views and read my liberal media drabble.
+<p>If you had any question as to why I'm doing this, this article sums up the problem I am trying to address. I fear that it is too easy for me and you to be "angry, poorly informed partisans." I am not naive enough to think that I can solve the echo-chamber and clickbait problem, nor do I think that I am immune to it. So please, share your opposition views and read my liberal media drabble.</p>
 
 <a href="http://www.nytimes.com/2016/10/29/science/why-do-people-liked-being-scared.html">New York Times: A scaredy-cat's investigation into why people enjoy fear</a>
 
