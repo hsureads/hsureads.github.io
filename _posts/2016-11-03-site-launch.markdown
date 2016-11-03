@@ -12,7 +12,7 @@ If you know anything about me, I spend a large portion of my day scouring the in
 
 <iframe src="https://trello.com/b/jZeQ2RWt.html" width="800" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-The above example Trello board contains some of my favorite articles from this past week. The bulk of my readings can be categorized in the lists you see in the Trello board. Across the lists I have also utilized the labels feature in Trello to tag the articles with their topical labels. I have chosen to use Trello boards since it is a pre-built, self-contained environment for me to catalog my finds. But if you don't feel like clicking through to the Trello board, I'll recreate the basic structure of the Trello board below with the article links for more convenience.
+The above example Trello board contains some of my favorite articles from this past week. The bulk of my readings can be categorized in the lists you see in the Trello board. Across the lists I have also utilized the labels feature in Trello to tag the articles with their topical labels. I have chosen to use Trello boards since it is a pre-built, self-contained environment for me to catalog my finds. Plus we can interact on Trello (please do if you're interested). But if you don't feel like clicking through to the Trello board, I'll recreate the basic structure of the Trello board below with the article links for more convenience.
 
 <h4>Current Events I'm Tracking</h4>
 
