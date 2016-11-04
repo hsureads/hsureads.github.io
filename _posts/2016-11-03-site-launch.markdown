@@ -3,7 +3,6 @@ layout:     post
 title:      Hopefully Not An Exercise in Narcissism
 date:       2016-11-03
 summary:    If you know anything about me, I spend a large portion of my day scouring the internet for interesting and (hopefully) well-written articles. I have always loved learning and ever since...
-categories: about trello
 ---
 
 If you know anything about me, I spend a large portion of my day scouring the internet for interesting and (hopefully) well-written articles. I have always loved learning and ever since graduating college it has been up to me to find ways and material to continue to learn. I enjoy sharing my findings with friends and given the current social media and political climate I think it is increasingly important to share thoughtful content and not just clickbait. I have no illusions that people are interested in my life so I am planning to keep my opinions and commentary to a minimum. The best way I have to do this is to curate my best readings each week and share them in a public Trello board and here. Please take a look around, read about things and experiences that you might be unfamiliar with, and share your own finds.
@@ -46,6 +45,8 @@ The above example Trello board contains some of my favorite articles from this p
 <a href="https://blog.longreads.com/2016/11/01/what-can-and-cant-be-learned-from-a-book/">Longreads: What can and can't be learned from a book</a>
 
 <a href="https://www.washingtonpost.com/news/food/wp/2016/11/02/neiman-marcus-sells-collard-greens-for-66-and-the-internet-mockery-explodes/">Washington Post: Neiman Marcus sells collard greens for $66, and the internet mockery explodes</a>
+
+<a href="http://harpers.org/archive/2016/06/the-improbability-party/">Harper's Magazine: The improbability party</a>
 
 <h4>Deep Dives</h4>
 
