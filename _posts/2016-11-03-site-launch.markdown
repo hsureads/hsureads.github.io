@@ -30,6 +30,8 @@ The above example Trello board contains some of my favorite articles from this p
 <a href="https://www.theguardian.com/commentisfree/2016/oct/26/fetishisation-work-miserable-long-hours-poor-pay?">The Guardian: The fetishisation of work is making us miserable. Let's learn to live again</a>
 <p>I don't actually agree with the utopia the writer proposes. But I still thought it was interesting.</p>
 
+<a href="https://theringer.com/instagram-geotagging-ruining-parks-f65b529d5e28#.ebjr9igdk">The Ringer: Loved to death: how Instagram is destroying our natural world</a>
+
 <h4>Hits Close to Home</h4>
 
 <a href="http://www.vox.com/policy-and-politics/2016/10/26/13413292/social-media-disrupting-politics">Vox: How social media creates angry, poorly informed partisans</a>
