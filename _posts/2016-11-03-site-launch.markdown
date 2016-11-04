@@ -6,13 +6,13 @@ summary:    If you know anything about me, I spend a large portion of my day sco
 categories: about trello
 ---
 
-If you know anything about me, I spend a large portion of my day scouring the internet for interesting and (hopefully) well-written articles. I have always loved learning and ever since graduating college it has been up to me to find things to learn about. I enjoy sharing my findings with friends and given the current social media and political climate I think it is increasingly important to share thoughtful content and not just clickbait. I am going to attempt to curate my best readings each week and share them in a public Trello board and here. Please take a look around, read about things and experiences that you might be unfamiliar with, and share your own finds.
+If you know anything about me, I spend a large portion of my day scouring the internet for interesting and (hopefully) well-written articles. I have always loved learning and ever since graduating college it has been up to me to find ways and material to continue to learn. I enjoy sharing my findings with friends and given the current social media and political climate I think it is increasingly important to share thoughtful content and not just clickbait. I have no illusions that people are interested in my life so I am planning to keep my opinions and commentary to a minimum. The best way I have to do this is to curate my best readings each week and share them in a public Trello board and here. Please take a look around, read about things and experiences that you might be unfamiliar with, and share your own finds.
 
 <h3>Trello Board Rundown</h3>
 
 <iframe src="https://trello.com/b/jZeQ2RWt.html" width="800" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-The above example Trello board contains some of my favorite articles from this past week. The bulk of my readings can be categorized in the lists you see in the Trello board. Across the lists I have also utilized the labels feature in Trello to tag the articles with their topical labels. I have chosen to use Trello boards since it is a pre-built, self-contained environment for me to catalog my finds. Plus we can interact on Trello (please do if you're interested). But if you don't feel like clicking through to the Trello board, I'll recreate the basic structure of the Trello board below with the article links for more convenience.
+The above example Trello board contains some of my favorite articles from this past week. The bulk of my readings can be categorized in the lists you see in the Trello board. Across the lists I have also utilized the labels feature in Trello to tag the articles with their topical labels. I have chosen to use Trello boards since it is a pre-built, self-contained environment for me to catalog my finds. If you are interested in starting a discussion about specific articles we can interact on Trello using the comment section on each card. But if you don't feel like clicking through to the Trello board, I'll recreate the basic structure of the Trello board below with the article links for more convenience.
 
 <h4>Current Events I'm Tracking</h4>
 
@@ -59,4 +59,4 @@ The above example Trello board contains some of my favorite articles from this p
 
 <a href="https://www.theguardian.com/world/2016/oct/26/spy-couldnt-spell-how-biggest-heists-us-espionage-history-foiled">The Guardian: The spy who couldn't spell: how the biggest heist in the history of US espionage was foiled</a>
 
-So there you go. Happy reading, please let me know of any feedback by clicking on the contact links in the footer.
+So there you go. Happy reading, please let me know of any feedback by clicking on the contact links in the footer. Check back next week for another list of the week's best reads.
