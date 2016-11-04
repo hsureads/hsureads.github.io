@@ -3,6 +3,7 @@ layout:     post
 title:      Hopefully Not An Exercise in Narcissism
 date:       2016-11-03
 summary:    If you know anything about me, I spend a large portion of my day scouring the internet for interesting and (hopefully) well-written articles. I have always loved learning and ever since...
+categories: articles
 ---
 
 If you know anything about me, I spend a large portion of my day scouring the internet for interesting and (hopefully) well-written articles. I have always loved learning and ever since graduating college it has been up to me to find ways and material to continue to learn. I enjoy sharing my findings with friends and given the current social media and political climate I think it is increasingly important to share thoughtful content and not just clickbait. I have no illusions that people are interested in my life so I am planning to keep my opinions and commentary to a minimum. The best way I have to do this is to curate my best readings each week and share them in a public Trello board and here. Please take a look around, read about things and experiences that you might be unfamiliar with, and share your own finds.
