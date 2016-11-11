@@ -27,7 +27,7 @@ tags: archive
     {% endif %}
     {% endunless %}
     <li>
-      {{ post.date | date: "%b %-d" }} <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+      {{ post.date | date: "%b %d" }} <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
 
