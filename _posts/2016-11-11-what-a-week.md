@@ -7,13 +7,13 @@ categories: articles
 ---
 Prior to Tuesday night the article I was most excited about sharing this week was a <a href="https://www.mcsweeneys.net/articles/cookie-monster-searches-deep-within-himself-and-asks-is-me-really-monster">McSweeney's piece on Cookie Monster's existential crisis</a>. But after Tuesday night my Trello board took on a heavier theme. There are still some non-political articles on there (for instance: a <a href="https://www.psychologytoday.com/blog/psychoanalytic-excavation/201106/whats-the-infinitely-irritating-cialis-bathtubs">rant piece on the Cialis ad</a>) so please don't run away scared if you've read too many doom and gloom articles. If you do want to be more particular about your reading options you can use my labeling system in Trello to avoid or search for certain types of articles (i.e. light blue = articles related to politics). Anyways, without any further ado, here are this week's selections.
 
-<iframe src="https://trello.com/b/YhcLhdQ7.html" width="800" height="400" frameborder="0" style="border:0" allowfullscreen onclick="trackOutboundLink('http://trello.com/b/YhcLhdQ7.html'); return false;"></iframe>
+<iframe src="https://trello.com/b/YhcLhdQ7.html" width="800" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <h3>Trello Board Rundown</h3>
 
 <h4>Current Events I'm Tracking</h4>
 
-<a href="http://www.esquire.com/news-politics/a50215/david-duke-donald-trump-campaign-trail/">Esquire: How do you get David Duke to leave your party?</a>
+<a href="http://www.esquire.com/news-politics/a50215/david-duke-donald-trump-campaign-trail/" onclick="trackOutboundLink('http://esquire.com/news-politics/a50215/david-duke-donald-trump-campaign-trail/'); return false;">Esquire: How do you get David Duke to leave your party?</a>
 
 <a href="http://www.nytimes.com/2016/11/05/insider/the-world-series-sports-page-that-wasnt.html?_r=0">New York Times: The World Series sports page that wasn't</a>
 
