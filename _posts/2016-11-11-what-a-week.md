@@ -7,7 +7,7 @@ categories: articles
 ---
 Prior to Tuesday night the article I was most excited about sharing this week was a <a href="https://www.mcsweeneys.net/articles/cookie-monster-searches-deep-within-himself-and-asks-is-me-really-monster">McSweeney's piece on Cookie Monster's existential crisis</a>. But after Tuesday night my Trello board took on a heavier theme. There are still some non-political articles on there (for instance: a <a href="https://www.psychologytoday.com/blog/psychoanalytic-excavation/201106/whats-the-infinitely-irritating-cialis-bathtubs">rant piece on the Cialis ad</a>) so please don't run away scared if you've read too many doom and gloom articles. If you do want to be more particular about your reading options you can use my labeling system in Trello to avoid or search for certain types of articles (i.e. light blue = articles related to politics). Anyways, without any further ado, here are this week's selections.
 
-<iframe src="https://trello.com/b/YhcLhdQ7.html" width="800" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://trello.com/b/YhcLhdQ7.html" width="800" height="400" frameborder="0" style="border:0" allowfullscreen onclick="trackOutboundLink('http://trello.com/b/YhcLhdQ7.html'); return false;"></iframe>
 
 <h3>Trello Board Rundown</h3>
 
