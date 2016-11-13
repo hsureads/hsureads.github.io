@@ -1,5 +1,5 @@
 ---
-slug: general
-name: General
+slug: articles
+name: Articles
 color: '#3498db'
 ---
