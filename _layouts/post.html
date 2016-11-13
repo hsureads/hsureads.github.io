@@ -7,10 +7,10 @@ layout: default
 {% assign minutes = 1 %}
 {% endif %}
 
-{% assign category = site.my_categories | where: "slug", post.category %}
-{% assign category = category[0] %}
-{% if category %}
-    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
+{% assign categories = site.my_categories | where: "slug", post.categories %}
+{% assign categories = categories[0] %}
+{% if categories %}
+    {% capture categories_content %}<a class="label" href="{{ categories.url }}">{{ categories.name }}</a>{% endcapture %}
 {% endif %}
 
 <div class="post-header mb2">
@@ -32,7 +32,7 @@ layout: default
   {{ content }}
 </article>
 
-<p id="post-meta">{{ category_content }}</p>
+<p id="post-meta">{{ categories_content }}</p>
 
 {% if site.show_sharing_icons %}
   {% include share_buttons.html %}
