@@ -29,7 +29,7 @@ enable_anchorjs: false
 collections:
   my_categories:
     output: true
-    permalink: /categories/:name/
+    permalink: /category/:name/
 
 
 # Facebook Page integration
