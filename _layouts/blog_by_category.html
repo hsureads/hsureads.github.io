@@ -22,7 +22,7 @@ layout: page
           <div class="list-group">
         {% endif %}
       {% endunless %}
-      <a href="{{ post.url }}" class="list-group-item">
+      {{ post.date | date: "%b %d" }} <a href="{{ post.url }}" class="list-group-item">
         <h4 class="list-group-item-heading h6">{{ post.title }}</h4>
       </a>
       {% if forloop.last %}
