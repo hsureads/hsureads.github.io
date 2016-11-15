@@ -9,7 +9,7 @@ Do you think the world will end on January 20, 2017? Well in preparation for the
 <ol>
 <li>I have nothing better to do (let's be honest, this is probably the main reason)</li>
 <li>It's topical! The world is ending AND my church is going through Revelation right now</li>
-<li>I have always wanted to do a *Julie and Julia* type of challenge</li>
+<li>I have always wanted to do a <em>Julie and Julia</em> type of challenge</li>
 <li>Who knows when President-Elect Trump and the Republican Congress and the soon-to-be Conservative Supreme Court will begin banning books? Gotta read them all before then. I kid, I kid... I think.</li>
 </ol>
 Now that I've convinced you that this is a serious endeavor, you might be saying to yourself, "This girl is crazy. I can't read any more of this crap." Ok, but when you're facing interacting with your legitimately crazy in-laws this holiday season, I can be your escape and you know where to find me. If, however, like our hero ~~Nicholas Cage~~ Rayford Steele, you are ready to forge on and learn more, I present to you a primer on the series and my Bridge to Carpathia Challenge.
