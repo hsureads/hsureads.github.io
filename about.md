@@ -8,6 +8,6 @@ I spend a good part of my day scouring the internet for interesting and (hopeful
 
 I don't have much of an interest in providing a ton of commentary, hence "blog," but if you are interested in discussing articles please head over to the appropriate Trello card and leave a comment. You can also get realtime updates on what I'm reading by following my public Trello boards (<a href="https://trello.com/hsureads">https://trello.com/hsureads</a>) or finding me on Pocket (<a href="https://getpocket.com/@hsureads">https://getpocket.com/@hsureads</a>). For more details on how this blog works <a href="https://hsureads.github.io/about/trello/2016/11/03/site-launch/">click here</a>.
 
-*Updated November 15, 2016*In honor of our 45th president I decided to read the entire Left Behind series. All I have to offer is <a href="https://hsureads.github.io/category/bridge-to-carpathia">commentary</a> and I'm sorry.
+*Updated November 15, 2016* In honor of our 45th president I decided to read the entire Left Behind series. All I have to offer is <a href="https://hsureads.github.io/category/bridge-to-carpathia">commentary</a> and I'm sorry.
 
 Thanks to John Otander for the Jekyll theme (<a href="https://github.com/johnotander/pixyll">https://github.com/johnotander/pixyll</a>).
