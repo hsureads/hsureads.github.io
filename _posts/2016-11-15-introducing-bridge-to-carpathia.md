@@ -6,10 +6,12 @@ summary: Do you think the world will end on January 20, 2017? Well in preparatio
 categories: bridge-to-carpathia
 ---
 Do you think the world will end on January 20, 2017? Well in preparation for the apocalypse I have decided I will read all 16 books (!!!) of the *Left Behind* series prior to Trump's inauguration. Why would I do such a thing? Well for several reasons:
-1. I have nothing better to do (let's be honest, this is probably the main reason)
-2. It's topical! The world is ending AND my church is going through Revelation right now
-3. I have always wanted to do a *Julie & Julia* type of challenge
-4. Who knows when President-Elect Trump and the Republican Congress and the soon-to-be Conservative Supreme Court will begin banning books? Gotta read them all before then. I kid, I kid... I think.
+<ol>
+<li>I have nothing better to do (let's be honest, this is probably the main reason)</li>
+<li>It's topical! The world is ending AND my church is going through Revelation right now</li>
+<li>I have always wanted to do a *Julie and Julia* type of challenge</li>
+<li>Who knows when President-Elect Trump and the Republican Congress and the soon-to-be Conservative Supreme Court will begin banning books? Gotta read them all before then. I kid, I kid... I think.</li>
+</ol>
 Now that I've convinced you that this is a serious endeavor, you might be saying to yourself, "This girl is crazy. I can't read any more of this crap." Ok, but when you're facing interacting with your legitimately crazy in-laws this holiday season, I can be your escape and you know where to find me. If, however, like our hero ~~Nicholas Cage~~ Rayford Steele, you are ready to forge on and learn more, I present to you a primer on the series and my Bridge to Carpathia Challenge.
 <h3>What is the <em>Left Behind</em> series?</h3>
 The *Left Behind* series is a 16-part fiction series about the crap and terror that goes down when the Antichrist comes to power (depending on your political leanings that has already happened, #ThanksObama, or is beginning now, #MakeDonaldDrumpfAgain). Or as Wikipedia describes:
