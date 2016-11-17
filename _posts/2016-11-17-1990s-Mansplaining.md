@@ -52,3 +52,5 @@ This, plus the way each character talked about their conversion, just seemed lik
 </ol>
 
 **Current excitement level:** 8. Like our heroes I know the pain and tribulation that lies before me, but I also know the reward. Bring it on.
+<hr>
+Read all installments of my Bridge to Carpathia series <a href="https://hsureads.github.io/category/bridge-to-carpathia/">here</a>.
