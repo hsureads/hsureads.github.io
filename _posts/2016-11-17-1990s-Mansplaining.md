@@ -26,7 +26,7 @@ Yup. I think this is all supposed to happen within a week or so. Lesson: the apo
 <h3>Psychoanalysis</h3>
 Why did I feel like I was being mansplained to? The whole book feels like a dad's dream. See my character analyses below:
 <ul>
-<li>Rayford: A manifestation of the guy LaHaye and Jenkins would want to be. Decently good looking, working in a seemingly glamorous and powerful profession. His flaw is that he was considering cheating on his wife. The "drop dead gorgeous" flight attendant was interested but he didn't have enough game to act on it. He's a leader and an alpha male. Drives a BMW. <em>Has a flawed but not deeply flawed family. See Chloe, Buck, and Raptured Family entries.</em></li>
+<li>Rayford: A manifestation of the guy LaHaye and Jenkins would want to be. Decently good looking, working in a seemingly glamorous and powerful profession. His flaw is that he was considering cheating on his wife. The "drop dead gorgeous" flight attendant was interested but he didn't have enough game to act on it. He's a leader and an alpha male. Drives a BMW. Has a flawed but not deeply flawed family. <em>See Chloe, Buck, and Raptured Family entries.</em></li>
 
 <li>Chloe: The daughter that takes after her father and still calls him "daddy" at 20. She goes to Stanford University but loves him so much that she comes home immediately after the rapture and enrolls in local classes (maybe Oakton Community College, hopefully Northwestern University). She is independent enough to make her own decisions but is a good obedient daughter and loves to hang out with her dad and of her own logic comes to believe what her father believes, naturally.</li>
 
