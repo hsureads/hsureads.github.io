@@ -32,9 +32,9 @@ Why did I feel like I was being mansplained to? The whole book feels like a dad'
 
 <li>Buck: The dream son-in-law. Successful, handy with electronics and tools, mature, has money, complicated relationship with his own family so he can more readily integrate into her family - eventually.</li>
 
-<li>Hattie: Super attractive and somehow attracted to a guy 15 years older than her. Luckily for ~~LaHaye and Jenkins~~ Rayford, after he decides not to pursue her, she turns out to be an emotional ditz. Yuck. Rayford dodged that attractive bullet.</li>
+<li>Hattie: Super attractive and somehow attracted to a guy 15 years older than her. Luckily for Rayford LaHaye Jenkins, after he decides not to pursue her, she turns out to be an emotional ditz. Yuck. Rayford dodged that attractive bullet.</li>
 
-<li>Antichrist: Of course the ~~rebound guy~~ Antichrist will be super attractive and that ditzy flight attendant will fall for him (this is the first of many clues that if LaHaye and Jenkins are right about the end times Trump cannot be the Antichrist). </li>
+<li>Antichrist: Of course the <strike>rebound guy</strike> Antichrist will be super attractive and that ditzy flight attendant will fall for him (this is the first of many clues that if LaHaye and Jenkins are right about the end times Trump cannot be the Antichrist). </li>
 
 <li>Raptured Family: Rayford's wife made cookies regularly. Ray Jr. was a good kid and named after Rayford. Those are the only traits I remember but honestly they also seem like traits that a man would want out of his raptured family.</li>
 </ul>
