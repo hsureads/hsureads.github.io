@@ -25,27 +25,30 @@ Yup. I think this is all supposed to happen within a week or so. Lesson: the apo
 
 <h3>Psychoanalysis</h3>
 Why did I feel like I was being mansplained to? The whole book feels like a dad's dream. See my character analyses below:
+<ul>
+<li>Rayford: A manifestation of the guy LaHaye and Jenkins would want to be. Decently good looking, working in a seemingly glamorous and powerful profession. His flaw is that he was considering cheating on his wife. The "drop dead gorgeous" flight attendant was interested but he didn't have enough game to act on it. He's a leader and an alpha male. Drives a BMW. <em>Has a flawed but not deeply flawed family. See Chloe, Buck, and Raptured Family entries.</em></li>
 
-*Rayford: A manifestation of the guy LaHaye and Jenkins would want to be. Decently good looking, working in a seemingly glamorous and powerful profession. His flaw is that he was considering cheating on his wife. The "drop dead gorgeous" flight attendant was interested but he didn't have enough game to act on it. He's a leader and an alpha male. Drives a BMW. Has a flawed but not deeply flawed family. See Chloe, Buck, and Raptured Family entries.
+<li>Chloe: The daughter that takes after her father and still calls him "daddy" at 20. She goes to Stanford University but loves him so much that she comes home immediately after the rapture and enrolls in local classes (maybe Oakton Community College, hopefully Northwestern University). She is independent enough to make her own decisions but is a good obedient daughter and loves to hang out with her dad and of her own logic comes to believe what her father believes, naturally.</li>
 
-*Chloe: The daughter that takes after her father and still calls him "daddy" at 20. She goes to Stanford University but loves him so much that she comes home immediately after the rapture and enrolls in local classes (maybe Oakton Community College, hopefully Northwestern University). She is independent enough to make her own decisions but is a good obedient daughter and loves to hang out with her dad and of her own logic comes to believe what her father believes, naturally.
+<li>Buck: The dream son-in-law. Successful, handy with electronics and tools, mature, has money, complicated relationship with his own family so he can more readily integrate into her family - eventually.</li>
 
-*Buck: The dream son-in-law. Successful, handy with electronics and tools, mature, has money, complicated relationship with his own family so he can more readily integrate into her family - eventually.
+<li>Hattie: Super attractive and somehow attracted to a guy 15 years older than her. Luckily for ~~LaHaye and Jenkins~~ Rayford, after he decides not to pursue her, she turns out to be an emotional ditz. Yuck. Rayford dodged that attractive bullet.</li>
 
-*Hattie: Super attractive and somehow attracted to a guy 15 years older than her. Luckily for ~~LaHaye and Jenkins~~ Rayford, after he decides not to pursue her, she turns out to be an emotional ditz. Yuck. Rayford dodged that attractive bullet.
+<li>Antichrist: Of course the ~~rebound guy~~ Antichrist will be super attractive and that ditzy flight attendant will fall for him (this is the first of many clues that if LaHaye and Jenkins are right about the end times Trump cannot be the Antichrist). </li>
 
-*Antichrist: Of course the ~~rebound guy~~ Antichrist will be super attractive and that ditzy flight attendant will fall for him (this is the first of many clues that if LaHaye and Jenkins are right about the end times Trump cannot be the Antichrist). 
-
-*Raptured Family: Rayford's wife made cookies regularly. Ray Jr. was a good kid and named after Rayford. Those are the only traits I remember but honestly they also seem like traits that a man would want out of his raptured family.
+<li>Raptured Family: Rayford's wife made cookies regularly. Ray Jr. was a good kid and named after Rayford. Those are the only traits I remember but honestly they also seem like traits that a man would want out of his raptured family.</li>
+</ul>
 
 This, plus the way each character talked about their conversion, just seemed like a pastor trying to explain Christianity to me. Not very convincingly either. I can't believe that anyone outside of the church read these books.
 
 <h3>Closing thoughts</h3>
 
 **Questions for your pastor:**
-1. Will the Antichrist come from Europe?
-2. Is the EU evil?
-3. Is Brexit an effort to fight against evil? Is it proof that end times are near or that we've got some more time?
-4. Do you have a post-rapture VHS? Shouldn't you get that burned onto a DVD?
+<ol>
+<li>Will the Antichrist come from Europe?</li>
+<li>Is the EU evil?</li>
+<li>Is Brexit an effort to fight against evil? Is it proof that end times are near or that we've got some more time?</li>
+<li>Do you have a post-rapture VHS? Shouldn't you get that burned onto a DVD?</li>
+</ol>
 
 **Current excitement level:** 8. Like our heroes I know the pain and tribulation that lies before me, but I also know the reward. Bring it on.
