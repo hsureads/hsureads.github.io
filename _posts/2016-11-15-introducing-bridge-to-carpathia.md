@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Bridge to Carpathia
 date: 2016-11-15
-summary: Do you think the world will end on January 20, 2017? Well in preparation for the apocalypse I have decided I will read all 16 books (!!!) of the *Left Behind* series prior to Trump's inauguration...
+summary: Do you think the world will end on January 20, 2017? Well in preparation for the apocalypse I have decided I will read all 16 books (!!!) of the <em>Left Behind</em> series prior to Trump's inauguration...
 categories: bridge-to-carpathia
 ---
 Do you think the world will end on January 20, 2017? Well in preparation for the apocalypse I have decided I will read all 16 books (!!!) of the *Left Behind* series prior to Trump's inauguration. Why would I do such a thing? Well for several reasons:
