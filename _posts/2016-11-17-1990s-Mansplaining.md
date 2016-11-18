@@ -2,7 +2,7 @@
 layout: post
 title: I Just Signed Up for 16 Books of 1990s Mansplaining
 date: 2016-11-17
-summary: I finished *Left Behind* this afternoon. Reading such a masterpiece was a little painful at first but once the plot got moving it was bearable. The constant thought running through my head was...
+summary: I finished <em>Left Behind</em> this afternoon. Reading such a masterpiece was a little painful at first but once the plot got moving it was bearable. The constant thought running through my head was...
 categories: bridge-to-carpathia
 ---
 I finished *Left Behind* this afternoon. Reading such a masterpiece was a little painful at first but once the plot got moving it was bearable. The constant thought running through my head was, "I am in the mind of a slightly past mid-life crisis father." Don't worry, we will get to my psychoanalysis of LaHaye and Jenkins based on this book, but first I will summarize the book for you. So if you are hoping to read the series later then you might want to reconsider following this blog but you should also reconsider your reading list. If you decide to ignore my spoiler alert then on to my summary!
