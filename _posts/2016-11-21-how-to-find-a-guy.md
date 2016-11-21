@@ -8,7 +8,7 @@ categories: bridge-to-carpathia
 *Tribulation Force* was a scary look into Christian courtship rituals. I have outlined the steps to finding The One during the End Times as told by LaHaye and Jenkins. Fingers crossed this gets turned into the fourth Gosling-Stone romantic dramedy.
 
 **Step One:** Remain pure. You may be beyond redemption if you have had sex before marriage. Even if you did not become a Christian until your early 30s and are a supposed good-looking, globe-trotting, hotshot journalist (hello Buck). Or if you are a not-so-rebellious rebellious wild daughter who got into the crazy party school of Stanford University (hi Chloe). I hope you had enough foresight to live by Christian values before you became a Christian.
-**Step Two:** Develop a crush but doubt your feelings. Is the Apocalypse the right time to even think about romance? You've never been good at love anyways.
+<br>**Step Two:** Develop a crush but doubt your feelings. Is the Apocalypse the right time to even think about romance? You've never been good at love anyways.
 **Step Three:** Show your interest. Men, wipe some chocolate off of your crush's mouth and then eat it. Don't worry, this is totally fine and acceptable if you just met them. Women, swoon at second-hand chocolate consumption.
 Step Four: Rescind your interest. Ignore your crush as you wrestle with you doubts (see Step Two). Repeat steps 3 and 4 as necessary to increase tension and intrigue.
 **Step Five:** Engage in a romantic-comedy of errors. (See the plot of *Top Hat* but alas with less dancing.)
