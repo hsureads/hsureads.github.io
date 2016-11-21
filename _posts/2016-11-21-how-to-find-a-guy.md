@@ -35,7 +35,7 @@ categories: bridge-to-carpathia
 <br>**Step Fifteen:** Two weeks later get married at a joint ceremony.
 <br>**Step Sixteen:** Women quit their jobs to follow their powerful husbands around. It is unknown if they consumate their marriages, this is a Christian book not a romance novel.
 
-So that's where we are now. Buck and Chloe are married. Rayford is married to a woman named Amanda White who knew his wife before the rapture. After officiating their wedding(s) Bruce the pastor died. Also the Wailing Wall dragons are actually Elijah and Moses, Hattie is having Carpathia's child (out of wedlock no less!), Buck and Rayford now work for Carpathia, all of the world religions have formed one religion, the UN is now called the Global Community, there are only state-run press publications, and World War III happened (don't worry, the US was on the good side but still lost #thanksobama).
+So that's where we are now. Buck and Chloe are married. Rayford is married to a woman named Amanda White who knew his wife before the rapture. After officiating their wedding(s) Bruce the pastor died. Also the Wailing Wall dragons are actually Elijah and Moses, Hattie is having Carpathia's child (out of wedlock no less!), Buck and Rayford now work for Carpathia, all of the world religions have formed one religion, the UN is now called the Global Community, there are only state-run press publications, and World War III broke out (don't worry, the US is on the good side but still probably lose since they are up against the Antichrist #thanksobama).
 
 <h3>Closing thoughts</h3>
 **Questions for your pastor:**
