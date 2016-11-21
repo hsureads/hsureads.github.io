@@ -41,7 +41,7 @@ So that's where we are now. Buck and Chloe are married. Rayford is married to a 
 **Questions for your pastor:**
 <ol>
 <li>My dad doesn't meddle in my relationship, does he still love me?</li>
-<li>Do you give discounts for joint wedding officiating??</li>
+<li>Do you give discounts for joint wedding officiating?</li>
 <li>Are the cookies included or sold separately when I sign up for the singles mixer?</li>
 </ol>
 
