@@ -45,6 +45,7 @@ So that's where we are now. Buck and Chloe are married. Rayford is married to a 
 <li>Are the cookies included or sold separately when I sign up for the singles mixer?</li>
 </ol>
 
-**Current excitement level:** 8. There was a lot of groaning while reading this book but I'm hoping that now the main characters have paired off I won't have to read any more of this garbage and it will all be action and martyrdom. Plus how can you not get excited for the following books when this one ends with this dramatic cliffhanger, <blockquote>The Red Horse of the Apocalypse was on the loose.</blockquote>
+**Current excitement level:** 8. There was a lot of groaning while reading this book but I'm hoping that now the main characters have paired off I won't have to read any more of this garbage and it will all be action and martyrdom. Plus how can you not get excited for the following books when this one ends with this dramatic cliffhanger, 
+<blockquote>The Red Horse of the Apocalypse was on the loose.</blockquote>
 <hr>
 Read all installments of my Bridge to Carpathia series <a href="https://hsureads.github.io/category/bridge-to-carpathia/">here</a>.
