@@ -37,7 +37,7 @@ Step Four: Rescind your interest. Ignore your crush as you wrestle with you doub
 
 So that's where we are now. Buck and Chloe are married. Rayford is married to a woman named Amanda White who knew his wife before the rapture. After officiating their wedding(s) Bruce the pastor died. Also the Wailing Wall dragons are actually Elijah and Moses, Hattie is having Carpathia's child (out of wedlock no less!), Buck and Rayford now work for Carpathia, all of the world religions have formed one religion, the UN is now called the Global Community, there are only state-run press publications, and World War III happened (don't worry, the US was on the good side but still lost #thanksobama).
 
-<h4>Closing thoughts</h4>
+<h3>Closing thoughts</h3>
 **Questions for your pastor:**
 <ol>
 <li>My dad doesn't meddle in my relationship, does he still love me?</li>
