@@ -26,14 +26,14 @@ I did think about visiting some of these places to take selfies, but then it got
 I am pleased to introduce our cast of cats:
 
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/Hamilton-headshot.jpg" style="width: 100%">Hamilton as Rayford Steele</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/banye-headshot.jpg" style="width: 100%">Banye as Cameron “Buck” Williams</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/shironeko-headshot.jpg" style="width: 100%">Shironeko as Chloe Steele Williams</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/maru-headshot.jpg" style="width: 100%">Maru as Ken Ritz</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/colonel-meow-headshot.jpg" style="width: 100%">Colonel Meow as Tsion Ben-Judah</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/venus-headshot.jpg" style="width: 100%">Venus as Amanda White Steele</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/banye-headshot.jpg" style="width: 100%">Banye as Cameron “Buck” Williams</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/shironeko-headshot.jpg" style="width: 100%">Shironeko as Chloe Steele Williams</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/maru-headshot.jpg" style="width: 100%">Maru as Ken Ritz</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/colonel-meow-headshot.jpg" style="width: 100%">Colonel Meow as Tsion Ben-Judah</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/venus-headshot.jpg" style="width: 100%">Venus as Amanda White Steele</p>
 <p style="clear: both;">
-<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/sam-headshot.jpg" style="width: 100%">Sam as Hattie Durham</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/sam-headshot.jpg" style="width: 100%">Sam as Hattie Durham</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
 <p style="clear: both;">
 
 
