@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guest Post: The Worst Part is Also..."
-date: 2016-11-23
+date: 
 summary: Roommate here. Since our normal host for Bridge to Carpathia has done such a great job with the first two books, I volunteered myself to guest blog on the third book...
 categories: bridge-to-carpathia
 ---
