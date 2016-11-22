@@ -25,42 +25,15 @@ I did think about visiting some of these places to take selfies, but then it got
 
 I am pleased to introduce our cast of cats:
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="imageLocation" style="width: 100%">Caption</p>
-
-[Hamilton picture, 300x300]
-Hamilton as Rayford Steele
-
-
-[Banye picture, 300x300]
-Banye as Cameron “Buck” Williams
-
-
-[Shironeka picture, 300x300]
-Shironeko as Chloe Steele Williams
-
-
-[Maru picture, 300x300]
-Maru as Ken Ritz
-
-
-[Colonel Meow picture, 300x300]
-Colonel Meow as Tsion Ben-Judah
-
-
-[Venus picture, 300x300]
-Venus as Amanda White
-
-
-[Sam picture, 300x300]
-Sam as Hattie Durham
-
-
-[Lazarus picture, 300x300]
-Lazarus as Nicolae Carpathia, the Antichrist
-
-
-
-
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/Hamilton-headshot.jpg" style="width: 100%">Hamilton as Rayford Steele</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/banye-headshot.jpg" style="width: 100%">Banye as Cameron “Buck” Williams</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/shironeko-headshot.jpg" style="width: 100%">Shironeko as Chloe Steele Williams</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/maru-headshot.jpg" style="width: 100%">Maru as Ken Ritz</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/colonel-meow-headshot.jpg" style="width: 100%">Colonel Meow as Tsion Ben-Judah</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/venus-headshot.jpg" style="width: 100%">Venus as Amanda White Steele</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/sam-headshot.jpg" style="width: 100%">Sam as Hattie Durham</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="hsureads.github.io/images/lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
+<p style="clear: both;">
 
 
 As the book continues, it’s clear that LaHaye and Jenkins were really hoping to get a movie deal for their series. Cue numerous action sequences: bombings, explosions, multiple car chases that would make for a ridiculous action movie. (They were a little early on the apocalypse trend in popular culture, and alas, the movies that were actually made… well, I’m sure there will be a post on this later.)
