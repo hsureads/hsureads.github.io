@@ -104,10 +104,9 @@ It gets worse.
 <blockquote>Rayford had gone too far, and he had known it. He had glanced up at Hattie holding her hands over her ears, tears streaming down her face. 
 <br>“Hattie, please don’t pull away from me. Please don’t think I said any of that to hurt you personally. Just chalk it up to somebody standing up for the rights of someone can’t defend himself - or herself. If you won’t stand up for your own child, somebody has to.”</blockquote>
 
-
 Yikes.
 
-For good measure, Jenkins also throws in a little bit of self-reflection just to make sure people knew that <strike>he</strike> Rayford knew it was controversial <strike>but he was still right.</strike>
+<p>For good measure, Jenkins also throws in a little bit of self-reflection just to make sure people knew that <strike>he</strike> Rayford knew it was controversial <strike>but he was still right.</strike></p>
 
 <blockquote>Rayford had been angry with himself. Why couldn’t he learn? How could he sit there spouting all that? He believed it, and he was convinced it was God’s view. [...]But he also knew she could reject it out of hand simply because he was a man. How could he understand? No one was suggesting what he could or could not do with his own body. He had wanted to tell her he understood that, but again, what if that unborn child was a female? Who was standing up for the rights of that woman’s body?</blockquote>
 
@@ -117,8 +116,10 @@ The worst part is also that Jenkins finds it necessary to summarize and recap th
 
 Spoiler alert - this continues to happen in the later books. Chapter 19 of Book 5 opens with a plot summary. Seriously. As if we couldn’t remember that it was the end times.
 
-TL;DR
+<h4>TL;DR</h4>
 
 Horrible things are happening due to the Four Horsemen of the apocalypse. A lot of explosions happen and bombs go off. A huge earthquake happens. If you’re a real Christian, you will try to convince your non-Christian friend who is contemplating an abortion not to get one through weird logic and asserting values that they don’t hold. There are a lot of cat pictures and gifs - you have time for those, go back and look at them.
 
-Note: No cats were harmed in the making of this post.
+<p>Note: No cats were harmed in the making of this post.</p>
+<hr>
+Read all installments of the Bridge to Carpathia series <a href="https://hsureads.github.io/category/bridge-to-carpathia/">here</a>.
