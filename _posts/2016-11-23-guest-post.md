@@ -41,8 +41,8 @@ As the book continues, it’s clear that LaHaye and Jenkins were really hoping t
 <h4>Action Sequence #1:</h4>
 
 US Militia forces rebelling against Potentate Nicolae Carpathia have taken the Nike center (which I thought was a giant Nike store until research for this post informed me that during the Cold War the USA armed a bunch of sites around the country with Nike anti-aircraft missiles, including a bunch in the Chicagoland area...that makes so much more sense). In response, Nicolae has the city of Chicago destroyed. Luckily Buck had purchased a fully-loaded Range Rover in anticipation of the violence, and luckily, Chloe was driving the Range Rover in the city when the bombs went off downtown.
-<img src="/images/chloe-range-rover.jpg" alt="Chloe in Range Rover" style="width:720px;height:463px;">
 
+<img src="/images/chloe-range-rover.jpg" alt="Chloe in Range Rover" style="width:720px;height:463px;">
 
 Buck spends the better part of two chapters driving around Chicagoland in a borrowed car trying to find his wife. After destroying that car, he continues his search on foot. 
 
