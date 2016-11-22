@@ -32,21 +32,16 @@ I am pleased to introduce our cast of cats:
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/colonel-meow-headshot.jpg" style="width: 100%">Colonel Meow as Tsion Ben-Judah</p>
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/venus-headshot.jpg" style="width: 100%">Venus as Amanda White Steele</p>
 <p style="clear: both;">
-<p style="float: center; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/sam-headshot.jpg" style="width: 100%">Sam as Hattie Durham</p>
-<p style="float: center; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/Lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/sam-headshot.jpg" style="width: 100%">Sam as Hattie Durham</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/Lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
 <p style="clear: both;">
-
 
 As the book continues, it’s clear that LaHaye and Jenkins were really hoping to get a movie deal for their series. Cue numerous action sequences: bombings, explosions, multiple car chases that would make for a ridiculous action movie. (They were a little early on the apocalypse trend in popular culture, and alas, the movies that were actually made… well, I’m sure there will be a post on this later.)
 
-
-Action Sequence #1:
-
+<h4>Action Sequence #1:</h4>
 
 US Militia forces rebelling against Potentate Nicolae Carpathia have taken the Nike center (which I thought was a giant Nike store until research for this post informed me that during the Cold War the USA armed a bunch of sites around the country with Nike anti-aircraft missiles, including a bunch in the Chicagoland area...that makes so much more sense). In response, Nicolae has the city of Chicago destroyed. Luckily Buck had purchased a fully-loaded Range Rover in anticipation of the violence, and luckily, Chloe was driving the Range Rover in the city when the bombs went off downtown.
-
-
-[insert chloe-range-rover.jpg]
+![chloe-range-rover](hsureads.github.io/images/chloe-range-rover.jpg)
 
 
 Buck spends the better part of two chapters driving around Chicagoland in a borrowed car trying to find his wife. After destroying that car, he continues his search on foot. 
