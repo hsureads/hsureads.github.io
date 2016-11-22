@@ -33,7 +33,7 @@ I am pleased to introduce our cast of cats:
 <p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/venus-headshot.jpg" style="width: 100%">Venus as Amanda White Steele</p>
 <p style="clear: both;">
 <p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/sam-headshot.jpg" style="width: 100%">Sam as Hattie Durham</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; margin-bottom: 0.5em;"><img src="../images/Lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
 <p style="clear: both;">
 
 
