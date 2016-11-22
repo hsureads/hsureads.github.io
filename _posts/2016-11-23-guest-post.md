@@ -41,10 +41,133 @@ As the book continues, it’s clear that LaHaye and Jenkins were really hoping t
 <h4>Action Sequence #1:</h4>
 
 US Militia forces rebelling against Potentate Nicolae Carpathia have taken the Nike center (which I thought was a giant Nike store until research for this post informed me that during the Cold War the USA armed a bunch of sites around the country with Nike anti-aircraft missiles, including a bunch in the Chicagoland area...that makes so much more sense). In response, Nicolae has the city of Chicago destroyed. Luckily Buck had purchased a fully-loaded Range Rover in anticipation of the violence, and luckily, Chloe was driving the Range Rover in the city when the bombs went off downtown.
-![chloe-range-rover](hsureads.github.io/images/chloe-range-rover.jpg)
+<img src="/images/chloe-range-rover.jpg" alt="Chloe in Range Rover" style="width:720px;height:463px;">
 
 
 Buck spends the better part of two chapters driving around Chicagoland in a borrowed car trying to find his wife. After destroying that car, he continues his search on foot. 
 
 
 [insert buck-lsd.jpg]
+
+Just when it seems like all hope is lost, he reaches her via cell phone and runs up along the side of Lake Shore Drive until he finds her.
+
+
+Action Sequence #2:
+
+
+Buck saves Tsion Ben-Judah, an orthodox rabbi who is now a Christian teacher, in a subplot that includes: being held at gunpoint on a motorboat, 
+
+
+[insert bus-desert-chase.jpg]
+a stick-shift bus that constantly needs to have water poured into the engine to cool it down during a car chase in the desert, 
+
+
+[buck-tsion-explosion.jpg]
+and lighting tanks of gas on fire to create an explosion so they can run to the plane. 
+
+
+[ken-learjet.jpg]
+His pilot friend, Ken, helps get them to safety.
+
+
+(Not-so) Action Sequence #3:
+
+
+[rayford-cockpit.jpg]
+Rayford spends a lot of time flying Nicolae around and eavesdropping on him courtesy of the bugging intercom his former boss installed while designing the plane. 
+
+
+[nicolae-amanda-convo.jpg]
+While eavesdropping, Rayford catches a borderline questionable snippet of conversation between Nicolae and his wife. I’m now suspicious. Is she in cahoots with the Antichrist? Is she a phony believer? But Rayford doesn’t seem to be suspicious. Is Rayford blinded by lurve???
+
+
+This is why I cast Venus the Chimera Cat as Amanda. We just don’t know which side she’s on! Oh the suspense is killing me...
+
+
+Action Sequence #4:
+
+
+http://i.imgur.com/JuLszwT.gif
+
+
+The huge earthquake from Revelation 6:12 happens. 
+
+
+
+
+https://s-media-cache-ak0.pinimg.com/originals/7f/6d/93/7f6d935c5d6b54c791d31419e72aab62.gif
+
+
+Horror ensues.
+
+
+https://3.bp.blogspot.com/-Pt-MQGTkThY/WAYgkwSVzZI/AAAAAAAAAXU/wdHguoTmMok8QAfSrnxmma_fBwxcT3afQCLcB/s1600/CAT%2BGIF%2B%25E2%2580%25A2%2BAmazing%2BCat%2Breflexes%2Bstartled%2BCats%2Brunning%2Blike%2Brockets%2Bhaha.gif
+
+
+http://www.patlive.com/blog/wp-content/uploads/2015/10/Busy.gif
+
+
+
+
+
+
+
+
+Besides depicting all the violence and destruction of the world and increasingly authoritarian rule over the citizens of the Global Community, our good friend Jenkins found it important to make the “Christian” position on abortion very clear in this book.
+
+
+[rayford-vs-hattie.jpg]
+
+
+“Meow meow meow meowwww meow. Meow meow…”  (strikethrough) “I’ll even buy the argument that perhaps you regret the idea of having a child at all and would not be the best mother for it. I don’t think you can shirk responsibility for it the way a rape or incest victim might be justified in doing. But even in those cases, the solution isn’t to kill the innocent party, is it? Something is wrong, really wrong, and so people defend their right to choose. What they choose, of course, is not just the end of a pregnancy, not just an abortion, it’s the death of a person. But which person? One of the people who made a mistake? One of the people who committed a rape or incest? Or one of the people who got pregnant out of wedlock? No, the solution is always to kill the most innocent party of all.”
+
+
+It gets worse.
+
+
+Pullquote:
+
+
+Rayford had gone too far, and he had known it. He had glanced up at Hattie holding her hands over her ears, tears streaming down her face. 
+
+
+“Hattie, please don’t pull away from me. Please don’t think I said any of that to hurt you personally. Just chalk it up to somebody standing up for the rights of someone can’t defend himself - or herself. If you won’t stand up for your own child, somebody has to.”
+
+
+Yikes.
+
+
+For good measure, Jenkins also throws in a little bit of self-reflection just to make sure people knew that he (strikethrough) Rayford knew it was controversial but he was still right (strikethrough).
+
+
+Pullquote:
+
+
+Rayford had been angry with himself. Why couldn’t he learn? How could he sit there spouting all that? He believe it, and he was convinced it was God’s view. It made sense to him. But he also knew she could reject it out of hand simply because he was a man. How could he understand? No one was suggesting what he could or could not do with his own body. He had wanted to tell her he understood that, but again, what if that unborn child was a female? Who was standing up for the rights of that woman’s body?
+
+
+
+
+
+
+The worst part is also that Jenkins finds it necessary to summarize and recap the entirety of each subplot every time he returns to it. Like this, which appears a third of the way into the third book:
+
+
+Pullquote:
+
+
+When he (Rayford) left the cockpit to find her (Hattie), she had nearly bowled him over with the news that about a quarter of his passengers had disappeared, leaving everything material behind. … That was the night Rayford told Hattie he didn’t know what was happening any more than she did. The truth was that he knew all too well. Irene had been right. Christ had returned to rapture his church, and Rayford, Hattie, and three-fourths of their passengers had been left behind.
+
+
+Spoiler alert - this continues to happen in the later books. Chapter 19 of Book 5 opens with a plot summary. Seriously. As if we couldn’t remember that it was the end times.
+
+
+TL;DR
+
+
+Horrible things are happening due to the Four Horsemen of the apocalypse. A lot of explosions happen and bombs go off. A huge earthquake happens. If you’re a real Christian, you will try to convince your non-Christian friend who is contemplating an abortion not to get one through weird logic and asserting values that they don’t hold. There are a lot of cat pictures and gifs - you have time for those, go back and look at them.
+
+
+
+
+Note: No cats were harmed in the making of this post.
