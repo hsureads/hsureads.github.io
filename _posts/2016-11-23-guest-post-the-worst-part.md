@@ -54,46 +54,46 @@ Just when it seems like all hope is lost, he reaches her via cell phone and runs
 
 <h4>Action Sequence #2:</h4>
 
-Buck saves Tsion Ben-Judah, an orthodox rabbi who is now a Christian teacher, in a subplot that includes: being held at gunpoint on a motorboat, 
+Buck saves Tsion Ben-Judah, an orthodox rabbi who is now a Christian teacher, in a subplot that includes: being held at gunpoint on a motorboat, a stick-shift bus that constantly needs to have water poured into the engine to cool it down during a car chase in the desert, 
 
 <p><img src="/images/bus-desert-chase.jpg" alt="Tsion and Buck and a Texan bus" style="width:720px;height:463px;"></p>
 
-a stick-shift bus that constantly needs to have water poured into the engine to cool it down during a car chase in the desert, 
+and lighting tanks of gas on fire to create an explosion so they can run to the plane. 
 
 <p><img src="/images/buck-tsion-explosion.jpg" alt="BOOM" style="width:720px;height:463px;"></p>
 
-and lighting tanks of gas on fire to create an explosion so they can run to the plane. 
+His pilot friend, Ken, helps get them to safety.
 
 <p><img src="/images/ken-learjet.jpg" alt="Chloe in Range Rover" style="width:720px;height:463px;"></p>
-
-His pilot friend, Ken, helps get them to safety.
 
 
 <h4>(Not-so) Action Sequence #3:</h4>
 
+Rayford spends a lot of time flying Nicolae around and eavesdropping on him courtesy of the bugging intercom his former boss installed while designing the plane. 
+
 <p><img src="/images/rayford-cockpit.jpg" alt="Fuzzy seats" style="width:720px;height:463px;"></p>
 
-Rayford spends a lot of time flying Nicolae around and eavesdropping on him courtesy of the bugging intercom his former boss installed while designing the plane. 
+While eavesdropping, Rayford catches a borderline questionable snippet of conversation between Nicolae and his wife.
 
 <p><img src="/images/nicolae-amanda-convo.jpg" alt="Sweet whispers" style="width:720px;height:463px;"></p>
 
-While eavesdropping, Rayford catches a borderline questionable snippet of conversation between Nicolae and his wife. I’m now suspicious. Is she in cahoots with the Antichrist? Is she a phony believer? But Rayford doesn’t seem to be suspicious. Is Rayford blinded by lurve???
+I’m now suspicious. Is she in cahoots with the Antichrist? Is she a phony believer? But Rayford doesn’t seem to be suspicious. Is Rayford blinded by lurve???
 
 This is why I cast Venus the Chimera Cat as Amanda. We just don’t know which side she’s on! Oh the suspense is killing me...
 
 <h4>Action Sequence #4:</h4>
 
-<p><img src="/images/earthquake.gif" alt="Earthquake" style="width:386px;height:282px;"></p>
-
 The huge earthquake from Revelation 6:12 happens. 
 
-<p><img src="/images/chaos.gif" alt="Ahhhh" style="width:498px;height:178px;"></p>
+<p><img src="/images/earthquake.gif" alt="Earthquake" style="width:386px;height:282px;"></p>
 
 Horror ensues.
 
+<p><img src="/images/chaos.gif" alt="Ahhhh" style="width:498px;height:178px;"></p>
 <p><img src="/images/horror1.gif" alt="Ahhhhhhhhhhh" style="width:375px;height:375px;"></p>
 <p><img src="/images/horror2.gif" alt="AHHHHHHHHHHHHHHH" style="width:320px;height:240px;"></p>
 
+<h4>The Worst Part</h4>
 
 Besides depicting all the violence and destruction of the world and increasingly authoritarian rule over the citizens of the Global Community, our good friend Jenkins found it important to make the “Christian” position on abortion very clear in this book.
 
