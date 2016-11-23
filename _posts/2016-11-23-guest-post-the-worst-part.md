@@ -25,15 +25,17 @@ I did think about visiting some of these places to take selfies, but then it got
 
 I am pleased to introduce our cast of cats:
 
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/Hamilton-headshot.jpg" style="width: 100%">Hamilton as Rayford Steele</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/banye-headshot.jpg" style="width: 100%">Banye as Cameron “Buck” Williams</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/shironeko-headshot.jpg" style="width: 100%">Shironeko as Chloe Steele Williams</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/maru-headshot.jpg" style="width: 100%">Maru as Ken Ritz</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/colonel-meow-headshot.jpg" style="width: 100%">Colonel Meow as Tsion Ben-Judah</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/venus-headshot.jpg" style="width: 100%">Venus as Amanda White Steele</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/Hamilton-headshot.jpg" style="width: 100%">Hamilton as Rayford Steele</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/banye-headshot.jpg" style="width: 100%">Banye as Cameron “Buck” Williams</p>
 <p style="clear: both;">
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/sam-headshot.jpg" style="width: 100%">Sam as Hattie Durham</p>
-<p style="float: left; font-size: 9pt; text-align: center; width: 30%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/Lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/shironeko-headshot.jpg" style="width: 100%">Shironeko as Chloe Steele Williams</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/maru-headshot.jpg" style="width: 100%">Maru as Ken Ritz</p>
+<p style="clear: both;">
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/colonel-meow-headshot.jpg" style="width: 100%">Colonel Meow as Tsion Ben-Judah</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/venus-headshot.jpg" style="width: 100%">Venus as Amanda White Steele</p>
+<p style="clear: both;">
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/sam-headshot.jpg" style="width: 100%">Sam as Hattie Durham</p>
+<p style="float: left; font-size: 9pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/Lazarus-headshot.jpg" style="width: 100%">Lazarus as Nicolae Carpathia, the Antichrist</p>
 <p style="clear: both;">
 
 As the book continues, it’s clear that LaHaye and Jenkins were really hoping to get a movie deal for their series. Cue numerous action sequences: bombings, explosions, multiple car chases that would make for a ridiculous action movie. (They were a little early on the apocalypse trend in popular culture, and alas, the movies that were actually made… well, I’m sure there will be a post on this later.)
