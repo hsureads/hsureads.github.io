@@ -44,11 +44,11 @@ As the book continues, it’s clear that LaHaye and Jenkins were really hoping t
 
 US Militia forces rebelling against Potentate Nicolae Carpathia have taken the Nike center (which I thought was a giant Nike store until research for this post informed me that during the Cold War the USA armed a bunch of sites around the country with Nike anti-aircraft missiles, including a bunch in the Chicagoland area...that makes so much more sense). In response, Nicolae has the city of Chicago destroyed. Luckily Buck had purchased a fully-loaded Range Rover in anticipation of the violence, and luckily, Chloe was driving the Range Rover in the city when the bombs went off downtown.
 
-<p><img src="/images/chloe-range-rover.jpg" alt="Chloe in Range Rover" style="width:720px;height:463px;"></p>
+<p><img src="/images/chloe-range-rover.jpg" alt="Chloe in Range Rover" style="width: 100%"></p>
 
 Buck spends the better part of two chapters driving around Chicagoland in a borrowed car trying to find his wife. After destroying that car, he continues his search on foot. 
 
-<p><img src="/images/buck-lsd.jpg" alt="Buck on LSD" style="width:720px;height:463px;"></p>
+<p><img src="/images/buck-lsd.jpg" alt="Buck on LSD" style="width: 100%"></p>
 
 Just when it seems like all hope is lost, he reaches her via cell phone and runs up along the side of Lake Shore Drive until he finds her.
 
@@ -56,26 +56,26 @@ Just when it seems like all hope is lost, he reaches her via cell phone and runs
 
 Buck saves Tsion Ben-Judah, an orthodox rabbi who is now a Christian teacher, in a subplot that includes: being held at gunpoint on a motorboat, a stick-shift bus that constantly needs to have water poured into the engine to cool it down during a car chase in the desert, 
 
-<p><img src="/images/bus-desert-chase.jpg" alt="Tsion and Buck and a Texan bus" style="width:720px;height:463px;"></p>
+<p><img src="/images/bus-desert-chase.jpg" alt="Tsion and Buck and a Texan bus" style="width: 100%"></p>
 
 and lighting tanks of gas on fire to create an explosion so they can run to the plane. 
 
-<p><img src="/images/buck-tsion-explosion.jpg" alt="BOOM" style="width:720px;height:463px;"></p>
+<p><img src="/images/buck-tsion-explosion.jpg" alt="BOOM" style="width: 100%"></p>
 
 His pilot friend, Ken, helps get them to safety.
 
-<p><img src="/images/ken-learjet.jpg" alt="Chloe in Range Rover" style="width:720px;height:463px;"></p>
+<p><img src="/images/ken-learjet.jpg" alt="Chloe in Range Rover" style="width: 100%"></p>
 
 
 <h4>(Not-so) Action Sequence #3:</h4>
 
 Rayford spends a lot of time flying Nicolae around and eavesdropping on him courtesy of the bugging intercom his former boss installed while designing the plane. 
 
-<p><img src="/images/rayford-cockpit.jpg" alt="Fuzzy seats" style="width:720px;height:463px;"></p>
+<p><img src="/images/rayford-cockpit.jpg" alt="Fuzzy seats" style="width: 100%"></p>
 
 While eavesdropping, Rayford catches a borderline questionable snippet of conversation between Nicolae and his wife.
 
-<p><img src="/images/nicolae-amanda-convo.jpg" alt="Sweet whispers" style="width:720px;height:463px;"></p>
+<p><img src="/images/nicolae-amanda-convo.jpg" alt="Sweet whispers" style="width: 100%"></p>
 
 <p>I’m now suspicious. Is she in cahoots with the Antichrist? Is she a phony believer? But Rayford doesn’t seem to be suspicious. Is Rayford blinded by lurve???</p>
 
@@ -97,7 +97,7 @@ Horror ensues.
 
 Besides depicting all the violence and destruction of the world and increasingly authoritarian rule over the citizens of the Global Community, our good friend Jenkins found it important to make the “Christian” position on abortion very clear in this book.
 
-<p><img src="/images/rayford-vs-hattie.jpg" alt="GIRRRRLLL" style="width:720px;height:463px;">Rayford vs. Hattie</p>
+<p><img src="/images/rayford-vs-hattie.jpg" alt="GIRRRRLLL" style="width: 100%">Rayford vs. Hattie</p>
 
 <blockquote><strike>“Meow meow meow meowwww meow. Meow meow…”</strike>"I don’t think you can shirk responsibility for it the way a rape or incest victim might be justified in doing. But even in those cases, the solution isn’t to kill the innocent party, is it? Something is wrong, really wrong, and so people defend their right to choose. What they choose, of course, is not just the end of a pregnancy, not just an abortion, it’s the death of a person. But which person? One of the people who made a mistake? One of the people who committed a rape or incest? Or one of the people who got pregnant out of wedlock? No, the solution is always to kill the most innocent party of all."</blockquote>
 
