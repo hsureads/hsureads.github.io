@@ -77,9 +77,9 @@ While eavesdropping, Rayford catches a borderline questionable snippet of conver
 
 <p><img src="/images/nicolae-amanda-convo.jpg" alt="Sweet whispers" style="width:720px;height:463px;"></p>
 
-I’m now suspicious. Is she in cahoots with the Antichrist? Is she a phony believer? But Rayford doesn’t seem to be suspicious. Is Rayford blinded by lurve???
+<p>I’m now suspicious. Is she in cahoots with the Antichrist? Is she a phony believer? But Rayford doesn’t seem to be suspicious. Is Rayford blinded by lurve???</p>
 
-This is why I cast Venus the Chimera Cat as Amanda. We just don’t know which side she’s on! Oh the suspense is killing me...
+<p>This is why I cast Venus the Chimera Cat as Amanda. We just don’t know which side she’s on! Oh the suspense is killing me...</p>
 
 <h4>Action Sequence #4:</h4>
 
@@ -97,7 +97,7 @@ Horror ensues.
 
 Besides depicting all the violence and destruction of the world and increasingly authoritarian rule over the citizens of the Global Community, our good friend Jenkins found it important to make the “Christian” position on abortion very clear in this book.
 
-<p><img src="/images/rayford-vs-hattie.jpg" alt="GIRRRRLLL" style="width:720px;height:463px;"></p>
+<p><img src="/images/rayford-vs-hattie.jpg" alt="GIRRRRLLL" style="width:720px;height:463px;">Rayford vs. Hattie</p>
 
 <blockquote><strike>“Meow meow meow meowwww meow. Meow meow…”</strike>"I don’t think you can shirk responsibility for it the way a rape or incest victim might be justified in doing. But even in those cases, the solution isn’t to kill the innocent party, is it? Something is wrong, really wrong, and so people defend their right to choose. What they choose, of course, is not just the end of a pregnancy, not just an abortion, it’s the death of a person. But which person? One of the people who made a mistake? One of the people who committed a rape or incest? Or one of the people who got pregnant out of wedlock? No, the solution is always to kill the most innocent party of all."</blockquote>
 
