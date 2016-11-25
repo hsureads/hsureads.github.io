@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Slacked Off This Week
+title: "Slacked Off This Week"
 date: 2016-11-25
-summary:The Left Behind reading plus the holiday weekend has really screwed with my article reading habit. So a short list for you all, but a good opportunity to go read...
+summary: The Left Behind reading plus the holiday weekend has really screwed with my article reading habit. So a short list for you all, but a good opportunity to go read...
 categories: articles
 ---
 The Left Behind reading plus the holiday weekend has really screwed with my article reading habit. So a short list for you all, but a good opportunity to go read past <a href="hsureads.github.io/category/articles/">article suggestions</a> or the <a href="hsureads.github.io/category/Bridge-to-Carpathia/">Bridge to Carpathia series</a>.
