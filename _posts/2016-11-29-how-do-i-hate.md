@@ -13,7 +13,7 @@ I'm starting to falter and it's only book 4. In this pessimistic mood I have dec
 <li>Uncontrollable rage. Really wants someone to kill the two Wailing Wall Wackos.</li>
 <li>Pro one-world government, currency, and religion. Jenkins's surrogate pastor in the book actually calls the idea "from the pit of hell." I have no idea why except for the fact that it's not one-American government, currency, and religion.</li>
 <li>War mongerer pretending to want world peace</li>
-<li>Sexually promiscuous. Got Hattie pregnant out of wedlock. Despite giving her a ring he doesn't want to settle down with her either!</li>
+<li>Sexually promiscuous. Got Hattie pregnant out of wedlock. Despite giving her a ring he doesn't actually want to settle down with her!</li>
 <li>Terrible boyfriend. Orders Rayford to break up with Hattie for him. Actually though, this is much of the plot of <em>Soul Harvest</em></li>
 <li>Advocates for abortion. Wants Hattie to abort their child and is offering and encouraging worldwide abortions.</li>
 <li>Refuses to search for Amanda's downed plane. Amanda is killed in a plane crash and despite Rayford's pleas Carpathia refuses to expend resources to find the plane. This is another plot point that doesn't make sense.</li>
