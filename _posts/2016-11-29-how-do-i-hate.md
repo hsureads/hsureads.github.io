@@ -22,7 +22,7 @@ I'm starting to falter and it's only book 4. In this pessimistic mood I have dec
 <li>Uses injured Chloe as bait to find Buck and potentially Tsion. Not to worry, Buck and Ken masquerade as Dr. Cameron and Dr. Airplane and rescue Chloe from the terrible hospital.</li>
 <li>Plans to eliminate Hattie, unborn child, and Rayford. His henchmen inadvertently almost kill Buck when he pretends to be Rayford.</li>
 <li>Poisoned Hattie and unborn child. Planned ahead and figured he would cover his bases by having Hattie poisoned while at the evil reproductive clinic that specializes in cloning and stem cell research.</li>
-<li>Has ruined television. There's some weird rant about how everything on tv (except for the news, this was pre-post-truth afterall) is sexual and sinful.<li>
+<li>Has ruined television. There's some weird rant about how everything on tv (except for the news, this was pre-post-truth afterall) is sexual and sinful.</li>
 <strike><li><a href="hsureads.github.io/bridge-to-carpathia/2016/11/23/guest-post-the-worst-part/">Is a cat.</a></li></strike>
 </ol>
 
