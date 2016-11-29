@@ -29,7 +29,7 @@ I'm starting to falter and it's only book 4. In this pessimistic mood I have dec
 
 <p>In other plots the worldwide earthquake killed lots of people and turned many of those who survived into zombies. Not really but there were people staggering around bleeding from all over and asking Buck to kill or save them. Two pilots (Ken Ritz and Mac McCullum, where do they get these names???) became Christians. Buck conveniently found a Christian doctor at the evil GC hospital, he is treating everyone in the Tribulation Force since nearly everyone is injured. Christians now have permanent, but secret and invisible to anyone who is not a believer, Ash Wednesday/visual puzzle marks on their foreheads. Meteors fell and hail, blood, and fire are raining down from the heavens.</p>
 
-<h4>Closing Thoughts</h4>
+<h3>Closing Thoughts</h3>
 
 **Moment of silence for the dead:** Amanda, Donny the tech guy, and Loretta the southern belle
 
