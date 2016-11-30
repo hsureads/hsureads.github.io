@@ -5,7 +5,7 @@ date: 2016-11-25
 summary: The Left Behind reading plus the holiday weekend has really screwed with my article reading habit. So a short list for you all, but a good opportunity to go read...
 categories: articles
 ---
-The Left Behind reading plus the holiday weekend has really screwed with my article reading habit. So a short list for you all, but a good opportunity to go read past <a href="hsureads.github.io/category/articles/">article suggestions</a> or the <a href="hsureads.github.io/category/Bridge-to-Carpathia/">Bridge to Carpathia series</a>.
+The Left Behind reading plus the holiday weekend has really screwed with my article reading habit. So a short list for you all, but a good opportunity to go read past <a href="https://hsureads.github.io/category/articles/">article suggestions</a> or the <a href="https://hsureads.github.io/category/Bridge-to-Carpathia/">Bridge to Carpathia series</a>.
 
 <iframe src="https://trello.com/b/08c8DABD.html" width="800" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
