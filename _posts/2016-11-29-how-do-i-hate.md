@@ -23,7 +23,7 @@ I'm starting to falter and it's only book 4. In this pessimistic mood I have dec
 <li>Plans to eliminate Hattie, unborn child, and Rayford. His henchmen inadvertently almost kill Buck when he pretends to be Rayford.</li>
 <li>Poisoned Hattie and unborn child. Planned ahead and figured he would cover his bases by having Hattie poisoned while at the evil reproductive clinic that specializes in cloning and stem cell research.</li>
 <li>Has ruined television. There's some weird rant about how everything on tv (except for the news, this was pre-post-truth afterall) is sexual and sinful.</li>
-<li><a href="bridge-to-carpathia/2016/11/23/guest-post-the-worst-part/"><strike>Is a cat.</strike></a></li>
+<li><a href="/bridge-to-carpathia/2016/11/23/guest-post-the-worst-part/"><strike>Is a cat.</strike></a></li>
 </ol>
 
 <p>Conclusion: Pure evil. No room for nuance or empathy. Excellent writing.</p>
