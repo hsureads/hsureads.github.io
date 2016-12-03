@@ -5,7 +5,7 @@ date: 2016-12-03
 summary: While I have focused on conveying to you just how terrible the plot and character development of the <em>Left Behind</em> series are I feel that I have neglected to share the joys of reading Jenkins's writing...
 categories: bridge-to-carpathia
 ---
-While I have focused on conveying to you just how terrible the plot and character development of the **Left Behind** series are I feel that I have neglected to share the joys of reading Jenkins's writing. I will remedy that today with rants from yours truly regarding selected passages from the 5th book, **Apollyon**.
+While I have focused on conveying to you just how terrible the plot and character development of the <em>Left Behind</em> series are I feel that I have neglected to share the joys of reading Jenkins's writing. I will remedy that today with rants from yours truly regarding selected passages from the 5th book, <em>Apollyon</em>.
 
 <h4>Terrible Writing Example #1: Conversation between Chloe and Buck</h4>
 
@@ -22,7 +22,7 @@ Back to the romance novel point, according to Wikipedia, Jerry B. Jenkins has ac
 
 <h4>Terrible Writing Example #2: Conversation between Ken and Rayford</h4>
 
-<blockquote>"[...]Wound up liking England; I <em>really<em> [emphasis Jenkins's, not mine] don't remember the whys of that now, but I knocked over London School of Economics with my high school records."
+<blockquote>"[...]Wound up liking England; I <em>really</em> [emphasis Jenkins's, not mine] don't remember the whys of that now, but I knocked over London School of Economics with my high school records."
 <br>"You did well in high school?"
 <br>"Salutatorian, baby. Made the speech and everything. Thought I was gonna be an English teacher. I only talk like this 'cause it's easier, but yours truly is eminently cognizant of the grammatical parameters."
 <br>"Amazing."
