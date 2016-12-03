@@ -36,7 +36,7 @@ This conversation is supposed to explain why Ken was smart enough to convert all
 <blockquote>Bo said, "And so you just thought you'd come by and see what you could make off with, is that it?"
 <br>Rayford recoiled at such insensitivity, especially on the part of a stranger. "That's not it at all, sir. I--"
 <br>"Where do you get off calling me <em>sir</em> (still not my emphasis)? You don't know me!"
-<br>Caught off guard, Rayford's old nature took over. "What, am I talking to an alien? How does polite society refer to strangers on your planet, <em>Bo?<em>" He hit the name with as much sarcasm as he could muster. Rayford was much taller, but Bo was built like a linebacker. With his blond crewcut, he looked the part too.
+<br>Caught off guard, Rayford's old nature took over. "What, am I talking to an alien? How does polite society refer to strangers on your planet, <em>Bo?</em>" He hit the name with as much sarcasm as he could muster. Rayford was much taller, but Bo was built like a linebacker. With his blond crewcut, he looked the part too.
 <br>"Why don't you just take your opportunistic tail out of here while it's still part of your body?" Bo said.</blockquote>
 
 It keeps on going like this. I don't have the energy to rant about this. But if I did I would present my theory about how Rayford might be off his rocker (look for this in a future post). My boyfriend and I have adopted this method of arguing though and find it quite effective.
