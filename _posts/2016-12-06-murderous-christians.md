@@ -7,7 +7,7 @@ categories: bridge-to-carpathia
 ---
 Below is an image of the original cover of the 6th book, <em>Assassins</em>. It's very dramatic.
 
-<p><img src="/images/AssassinsCover.jpg" alt="Dun dun dun" style="width: 100%"></p>
+<p><img src="/images/AssassinsCover.jpg" alt="Dun dun dun" style="width:338px;height:500px;"></p>
 
 What does the title and cover mean? Well don't hurt yourself trying to figure it out, I'll help you out. The book is about everybody in (and even some people not in) the Tribulation Force wanting to and plotting to kill Carpathia. People really want to kill this dude. Even the people who know that he will just rise from the dead and resume antichrist-ing even more intensely afterwards. The book ends with Carpathia dead, lots of confusion, and David Hassid meeting with Carpathia's former ~~lover~~ right-hand man Supreme Commander Leon Fortunato (real title) identifying the assassin on video. But in Jenkins's best Shonda Rhimes imitation we are left in the dark as to who actually killed Carpathia!
 
