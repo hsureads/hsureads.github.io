@@ -13,11 +13,11 @@ What does the title and cover mean? Well don't hurt yourself trying to figure it
 
 I recently watched <em>Clue</em> so I am inspired to lay out the evidence for the potential assassin(s). (Also I feel guilty for not informing you all on the ridiculous going-ons of these books so hopefully I will be able to give you some plot synopsis this way.)
 
-<h4>Crime Scene</h4>
+<h3>Crime Scene</h3>
 
 Carpathia is killed during a gala that is supposed to celebrate something. It's supposed to last 5 days. On the second day he killed the two Wailing Wall dragons (sidenote: he actually called them dragons in this book, am I Carpathia???). Then there's a lot of debauchery and celebration and after a few days the dragons are resurrected and ascend into heaven after a loud voice yells, "COME UP HERE!" (this is actually true, God is like an angry mother). Anyways Carpathia is killed on stage as he is giving a speech after a loud gunshot. He has blood running from his eyes, nose, mouth, and top of his head. On the stage at the time of the gunshot are other Global Community dignataries, Leon Fortunato, and Chaim Rozenweig. Somewhere in the building/crowd is Rayford, Buck, Mac, and potentially Hattie and Abdullah.
 
-<h4>Suspect Lineup</h4>
+<h3>Suspect Lineup</h3>
 
 **Suspect #1, Rayford Steele:** The book starts with Rayford raging. This man has serious anger control issues. He has indicated his desire to be the one to kill Carpathia for several books now and holds Carpathia responsible for most of the deaths of his friends. He also has lost his sense of masculinity by being forced to go on the run, no longer being a major breadwinner of the Trib Force, and working for his daughter. As a result he does a lot of manual labor (digs Doc's grave by himself), yells at people, almost walks into a trap while trying to track down Hattie, obtains a black market technologically advanced gun called the Saber (this is important because LaHaye is a literalist and when the Bible says the Antichrist will die by a sword it must be some sort of "sword") and cost thousands of dollars, strands the newest member of the Tribulation Force in Belgium, and fails several times to shoot the gun at Carpathia when he is within shooting distance. The most damning evidence against Rayford is his rage and the fact that after being a coward and not shooting Carpathia he is jostled in the crowd and his gun goes off because it does not have a safety (cool cool whatevs, who needs gun control?). <em><b>Strength of suspicion: Strong.</em></b>
 
