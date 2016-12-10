@@ -7,7 +7,7 @@ categories: bridge-to-carpathia
 ---
 Within the next seven days I have to finish Left Behind books 8-10. I'm starting to feel the pressure. I'm also starting to feel the toll that reading seven of these poorly written books takes on a human. That's nearly 3,000 pages of strange sentence construction, horrific character development, groan-inducing dad jokes, groan-inducing "flirting," and groan-inducing dated references. I have been groaning a lot. Just ask my roommates. Also half of my text message threads are basically just a snapshot of the latest ridiculous writing and then something to the effect of "UGHHHHHHHHHH. STOPPPPPPPP." So I'm doing well, how are you?
 
-For those of you who are spared my rants, you will not get out of this unscathed. I present to you the things about <em>The Indwelling</em> that made me want to cry.
+For those of you who have been spared my rants, you will not get out of this unscathed. I present to you the things about <em>The Indwelling</em> that made me want to cry.
 
 <ul>
 <li>**The "Net":** The books were written in the 90s and early aughts. You can tell. They really like referring to the internet as "the Net." There were lots of references to "videodiscs" in <em>The Indwelling</em>. Also there are a lot of issues that could have been resolved with texting. Guess that wasn't a thing. Also a heavy reliance on satellites for any sort of connection.
