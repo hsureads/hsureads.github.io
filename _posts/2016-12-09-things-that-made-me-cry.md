@@ -21,6 +21,7 @@ For those of you who have been spared my rants, you will not get out of this uns
 <li>**Ming's and Ming's family's Asian-ness:** Ming is a Chinese believer who works at the Belgian GC facility that Hattie was supposed to be at but ended up not at. She is very "Asian." Proof of her Asian-ness comes in the form of the following: She knows martial arts. Her father greets her with a handshake. Her parents bow at everyone. Her father is rich and very demanding and doesn't understand how to behave at Carpathia's memorial service (What are you, an alien???). As an Asian I can vouch for Ming's Asian-ness.</li>
 <li>**Tsion's powerful ears:** If you were asked, "Do you recognize the sound of the Land Rover? I mean, could you confidently distinguish it from, say, a GC Jeep?" You would most likely say no. The probability of you being able to tell the difference while hiding underground in your bunker would definitely decrease. But Tsion says, "I believe I could." Ok then, go go gadget Extendable Ears.</li>
 <li>**"Exclusivistic"**: Too. Many. Suffixeseseses.</li>
+</ul>
 
 <h3>Closing Thoughts</h3>
 
