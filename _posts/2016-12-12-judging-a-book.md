@@ -37,15 +37,15 @@ An excellent SAT writing sample if I do say so myself. The problem is I'm not su
 
 <blockquote>Rayford and a suspicious colleague jet west on a mission of mercy with shocking results.</blockquote>
 
-Rayford is suspicious of Albie. No one else is suspicious of Albie, including any readers. The only thing suspicious is the fact that the Power Rangers are basically Star Alliance. Every country they go to they suddenly find pilot friends. The mission they are going on is the mission to save Hattie (AKA Star Alliance's founding mission). They eventually find her and Buck's old (now-disfigured but also now a believer) boss. They rescue Hattie but leave the crippled boss and suspicious Albie is able to convert Hattie. I swear the Star Alliance are the most successful evangelists ever. I think they have a 99% success rate. The only failure was Rayford's idiot attempt to badger the Antichrist into becoming a Christian. Who's the idiot now?
+Rayford is suspicious of Albie. No one else is suspicious of Albie, including any readers. The only thing suspicious is the fact that the Power Rangers are basically Star Alliance. Every country they go to they suddenly find pilot friends. The mission they are going on is the mission to save Hattie (AKA Star Alliance's founding mission). They eventually find her and Buck's old (now-disfigured but also now a believer) boss. They rescue Hattie but leave the crippled boss and suspicious Albie is able to convert Hattie. I swear the Star Alliance are the most successful evangelists ever. I think they have a 99% success rate. The only failure was Rayford's ludicrous attempt to badger the Antichrist into becoming a Christian. Who's the idiot now?
 
 <blockquote>Terror comes to the believers in Greece as they are among the first to face a GC loyalty mark application site and its benignly named but hideous death contraption, the loyalty enforcement facilitator.</blockquote>
 
-I like to imagine that the benignly named but hideous death contraption is a library filled with only <em>Left Behind</em> books. But alas they are guillotines. Buck and Albie witness a bunch of their Grecian brothers and sisters die by guillotine although they do succeed in saving two of them. I'm not actually sure that they are safe because they basically just help them escape from prison but basically just leave them to fend for themselves. Also it seems like GC loyalty mark application sites are unlike any other government offices in that they are extremely efficient. So I'm rather impressed by this Carpathia dude.
+In my world that the benignly named but hideous death contraption is a library filled with only <em>Left Behind</em> books. But alas what keeps Jenkins up at night are guillotines. Buck and Albie witness a bunch of their Grecian brothers and sisters die by guillotine although they do succeed in saving two of them. I'm not actually sure that they are safe because Star Alliance's customer service is subpar and Buck and Albie basically just help them escape from prison but then leave them to fend for themselves, they don't even escort them off of GC property. Also it seems like GC loyalty mark application sites are unlike any other government offices in that they are extremely efficient. So I'm rather impressed by this Carpathia dude, he's like the Mussolini and makes the trains run on time.
 
 <blockquote>The Trib Force moles inside the palace in New Babylon face tragedy and danger, and they must flee, take the mark, or suffer the consequences.</blockquote>
 
-Annie is dead. David split his head open after getting heatstroke but meets a Native American believer named Hannah Palemoon and he throws up on Carpathia instead of worshipping him (the benefits of concussions). Together with Star Alliance Pilots 78 and 79 they stage a plane crash but are escaping to the Star Alliance's headquarters in Chicago. They leave behind Asian Stereotype #4 who is a prodigy at everything (particularly math and computers) except social interactions who bears both the mark of the beast and the Christian mark because he was forced by his terrible father to get the mark of the beast so it doesn't count against him. He's now the single mole left in New Babylon (that we know of).
+Annie is dead. David split his head open after getting heatstroke but meets a Native American believer named Hannah Palemoon and he throws up on Carpathia instead of worshipping him (the benefits of concussions). Together with Star Alliance Pilots #78 and #79 they stage a plane crash but are escaping to the Star Alliance's headquarters in Chicago. They leave behind Asian Stereotype #4 who is a prodigy at everything (particularly math and computers) except social interactions who bears both the mark of the beast and the Christian mark. Because he was forced by his terrible father to get the mark of the beast, it doesn't count against him. He's now the single mole left in New Babylon (that we know of).
 
 <blockquote>Meanwhile, Carpathia plans his overt attack on the so-called Judah-ites, while the Trib Force gears up for its most ambitious countermeasures ever.</blockquote>
 
@@ -53,12 +53,12 @@ Buck and Chaim are on their way to Jerusalem to set up the safe haven for Jews. 
 
 <blockquote>The gloves are off, and the battle is launched between the forces of good and evil for the very souls of men and women around the globe.</blockquote>
 
-"The gloves are off." Jenkins, is that you? Probably not, if it was you would have called it a "cosmic battle." Oh well, a girl can dream (not quite like <a href="https://hsureads.github.io/bridge-to-carpathia/2016/12/09/things-that-made-me-cry/">Tsion and his drug-induced Harry Potter dreams</a>, but on a smaller scale).
+"The gloves are off." Jenkins, is that you? Probably not, if it was, you would have called it a "cosmic battle." Oh well, a girl can dream (not quite like <a href="https://hsureads.github.io/bridge-to-carpathia/2016/12/09/things-that-made-me-cry/">Tsion and his drug-induced Harry Potter dreams</a>, but on a smaller more earthbound scale).
 
 <h3>Selected Reviews from the Back Inside Cover</h3>
 <blockquote>"Christian thriller. Prophecy-based fiction. Juiced-up morality tale. Call it what you like, the Left Behind series-seven books thus far-now has a label its creators could never have predicted: blockbuster success."-Entertainment Weekly</blockquote>
 
-What a review.
+Does that make anyone want to read the series? They need some new marketing folks over at Tyndale.
 
 <h3>Closing Thoughts</h3>
 
@@ -67,7 +67,7 @@ What a review.
 <p><b>Weird moral dilemma:</b></p>
 I found Jerry B Jenkins on Twitter and tweeted at him. He liked my tweet... Should I continue to badger him with my blog coverage or play nice? According to his Twitter he does not take offense when people criticize his work.
 
-<p><b>Current excitement level:</b> 3. 2 more books before I get a break.</p>
+<p><b>Current excitement level:</b> 4. 2 more books before I get a break.</p>
 
 <hr>
 Read all installments of my Bridge to Carpathia series <a href="https://hsureads.github.io/category/bridge-to-carpathia/">here</a>.
