@@ -33,7 +33,7 @@ I just love that it's written like a parody movie trailer. I don't think I've ev
 
 <blockquote>Esconced in a new safe house, the Tribulation Force suffers tragic loss at the dawn of the second half of the seven-year Tribulation, the Great Tribulation.</blockquote>
 
-An excellent SAT writing sample if I do say so myself. The problem is I'm not sure what tragic loss they are talking about. The people who die in this book are not at the safe house. Most likely they are referring to Annie dying by lightning strike in New Babylon. This saddens her secret fiance David Hassid greatly.
+An excellent SAT writing sample. The problem is I'm not sure what tragic loss they are talking about. The people who die in this book are not at the safe house. Most likely they are referring to Annie dying by lightning strike in New Babylon. This saddens her secret fiance David Hassid greatly but the only other Power Ranger who met her was Mac (he weirdly kissed her on the head when they met, this has stuck with me).
 
 <blockquote>Rayford and a suspicious colleague jet west on a mission of mercy with shocking results.</blockquote>
 
