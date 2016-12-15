@@ -29,7 +29,7 @@ Quick rundown of book 9 plot: Carpathia rode a pig into the Jerusalem temple and
 
 <h3>Closing Thoughts</h3>
 
-<p><b>Moment of silence for the dead:</b>David, Laslos, not-so-freed Greek boy, Hattie</p>
+<p><b>Moment of silence for the dead:</b> David, Laslos, not-so-freed Greek boy, Hattie</p>
 
 <p><b>Current excitement level:</b> 6. The muppets are fun.</p>
 
