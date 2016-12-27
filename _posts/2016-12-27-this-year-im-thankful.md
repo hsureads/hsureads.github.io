@@ -13,7 +13,7 @@ It has been brought to my attention that this blog is mostly just me being angry
 <li><b>A sense of accomplishment:</b> Have you read ten books this year? I've read ten books in the past month. Do I get embarrassed when I go to the library to pick up the latest <em>Left Behind</em>? Yes, so much so that I do my best to avoid human interaction, thank God my library has an app where you can check out books from a dark corner where no one will wander in and see that I have 15 pounds of Left Behind in my backpack. But it feels good to have read so many books as long as I don't dwell on it for too long.</li>
 <li><b>I have a whole new conversational style now:</b> When I don't agree with someone I accuse them of being an alien. After a fight or not-so-fight with my boyfriend I know to ask if we are in love again. Badgering people is an effective evangelistic technique.</li>
 <li><b>I have a definitive list of names I would never name my children:</b> Rayford Steele, Buck Williams, Mac McCullum, Kenny Bruce, Pinkerton Stephens, Hattie Durham, Tyrola Mark Delanty, Viv Ivins, etc. Not only because I have terrible connotations with these names now but because I think many of them are objectively terrible names.
-<li><b>I have a working knowledge of basic HTML:</b> Basic. But it's there and much more than it was previously.</li>
+<li><b>I have a working knowledge of basic HTML:</b> Basic. But it's there and much more than it was previously.</li></ul>
 
 I don't think I succeeded in preventing myself from ranting but 2017 is starting soon and we all have higher hopes for next year right?
 
