@@ -19,13 +19,13 @@ I don't think I succeeded in preventing myself from ranting but 2017 is starting
 
 <h3>Closing Thoughts</h3>
 
-<b>Moment of silence for the dead:</b> Oh who even knows any more. I finished this book 10+ days ago.
+<p><b>Moment of silence for the dead:</b> Oh who even knows any more. I finished this book 10+ days ago.</p>
 
-<b>Questions for your pastor:</b>
+<p><b>Questions for your pastor:</b></p>
 <ol>
 <li>How would you counsel a friend of a friend who finds herself in a ranty rut because of an ill-advised self-imposed premillenial, pretribulation novel challenge?</li>
 </ol>
 
-<b>Current excitement level:</b> 2. I finished <em>The Remnant</em> prior to going home for Christmas. I wrote most of this post before I got home but then got home and had no desire to go on the internet and definitely no interest in thinking about <em>Left Behind</em>. Now I'm on my way back and dreading returning to that world even more than before. I don't think I'll be reading those prequels.
+<p><b>Current excitement level:</b> 2. I finished <em>The Remnant</em> prior to going home for Christmas. I wrote most of this post before I got home but then got home and had no desire to go on the internet and definitely no interest in thinking about <em>Left Behind</em>. Now I'm on my way back and dreading returning to that world even more than before. I don't think I'll be reading those prequels.</p>
 <hr>
 Read all installments of my Bridge to Carpathia series <a href="https://hsureads.github.io/category/bridge-to-carpathia/">here</a>.
