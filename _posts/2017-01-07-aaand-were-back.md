@@ -10,7 +10,7 @@ After some much needed respite from <em>Left Behind</em> I picked up the 11th bo
 <ul>
 <li><b>6:00 pm:</b> Roommate 1 and I set up the VCR to our TV. We struggle a bit with figuring out if the rewind function is working properly. Also we get a little preview of the Kirk Cameron movie when we play a couple of seconds of it to check image quality. It is horrendous.</li>
 <li><b>6:30 pm:</b> The VHS finally finishes rewinding. We think we might have not understood the rewinding functions correctly but whatever. At least we are ready for the marathon.</li>
-<li><b>8:00 pm:</li> Post-dinner everyone has arrived. We are standing around eating panna cotta and opening bottles of Amstel Light. How European of us. Mostly we are procrastinating starting the movies. But I struggle with staying up past midnight so I force everyone to sit down and start watching.</p>
+<li><b>8:00 pm:</b> Post-dinner everyone has arrived. We are standing around eating panna cotta and opening bottles of Amstel Light. How European of us. Mostly we are procrastinating starting the movies. But I struggle with staying up past midnight so I force everyone to sit down and start watching.</li>
 <li><b>8:01 pm:</b> Do you remember the days of VHS when you couldn't jump past the trailers to the start menu? This is going to be a longer night than expected.</li>
 <li><b>8:02 pm:</b> The first trailer is for another movie about Christian end times. Weird. I didn't know there was such a huge market for this.</li>
 <li><b>8:04 pm:</b> Wait. The second trailer is for yet another movie about Christian end times from Cloud Ten Pictures. Does this production company only produce movies about the end times???</li>
@@ -48,6 +48,16 @@ After some much needed respite from <em>Left Behind</em> I picked up the 11th bo
 <li><b>11:35 pm:</b> Found one! I navigate to the correct time marker and the movie begins again. It's like at 1.5x speed so everyone sounds like a chipmunk! I'm crying laughing. The evening has been redeemed.</li>
 </ul>
 
-So that's that. If you feel like watching either of the films I have embedded them below. Stay tuned for my final entries about the last three books. As a reminder I have reneged on my initial promise to read the prequels and am ending this exercise in discipline and punishment after reading the 13th book.
+So that's that. The Nicholas Cage version had no Carpathia but lots of Christian iconography jewelry. I am in the market for seven Jesus fish necklaces if anyone knows where I can find some. If you feel like watching either of the films I have embedded them below. (Yup it turns out the original is available on Youtube but we still lugged a VCR from Roommate 1's childhood home. Dedication.) Stay tuned for my final entries about the last three books. As a reminder I have reneged on my initial promise to read the prequels and am ending this exercise in discipline and punishment after reading the 13th book.
+
+<b>The Kirk Cameron version:</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k88NVL1AsMo" frameborder="0" allowfullscreen></iframe>
+
+<b>The Nicholas Cage slight audio delay version:</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_EXfM8fp0Nk" frameborder="0" allowfullscreen></iframe>
+
+<b>The Nicholas Cage chipmunk version:</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FR15o9qhb_U" frameborder="0" allowfullscreen></iframe>
+
 <hr>
 Read all installments of my Bridge to Carpathia series <a href="https://hsureads.github.io/category/bridge-to-carpathia/">here</a>.
