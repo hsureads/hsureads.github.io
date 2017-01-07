@@ -17,7 +17,7 @@ After some much needed respite from <em>Left Behind</em> I picked up the 11th bo
 <li><b>8:06 pm:</b> Wow. There's yet another and this stars Gary Busey and Howie Mandel with curly hair. But actually. Fascinating.</li>
 <li><b>8:08 pm:</b> But wait, there's more! This one has the dad from <em>Psych</em> and Mr. T. No joke. We make plans to watch this at another time.</li>
 <li><b>8:10 pm:</b> Ok time for the feature film. Here we go.</li>
-<li><b>8:11 pm:</b> My friends discover that they actually know the guy who composed the score for this movie. Does this mean we should refrain from making fun of the score? Fat chance.
+<li><b>8:11 pm:</b> My friends discover that they actually know the guy who composed the score for this movie. Does this mean we should refrain from making fun of the score? Fat chance.</li>
 <li><b>8:13 pm:</b> Personal thought: "Is that how you pronounce Chaim Rosenzweig???"</li>
 <li><b>8:20 pm:</b> The group laughs at the explosions and CGI when Israel is attacked.</li>
 <li><b>8:30 pm:</b> Rayford's family is quite something. You can tell that Chloe is rebellious because she has a nose ring and is wearing a choker. For some reason she's not at Stanford though...</li>
@@ -50,14 +50,14 @@ After some much needed respite from <em>Left Behind</em> I picked up the 11th bo
 
 So that's that. The Nicholas Cage version had no Carpathia but lots of Christian iconography jewelry. I am in the market for seven Jesus fish necklaces if anyone knows where I can find some. If you feel like watching either of the films I have embedded them below. (Yup it turns out the original is available on Youtube but we still lugged a VCR from Roommate 1's childhood home. Dedication.) Stay tuned for my final entries about the last three books. As a reminder I have reneged on my initial promise to read the prequels and am ending this exercise in discipline and punishment after reading the 13th book.
 
-<b>The Kirk Cameron version:</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k88NVL1AsMo" frameborder="0" allowfullscreen></iframe>
+<p><b>The Kirk Cameron version:</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k88NVL1AsMo" frameborder="0" allowfullscreen></iframe></p>
 
-<b>The Nicholas Cage slight audio delay version:</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_EXfM8fp0Nk" frameborder="0" allowfullscreen></iframe>
+<p><b>The Nicholas Cage slight audio delay version:</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_EXfM8fp0Nk" frameborder="0" allowfullscreen></iframe></p>
 
-<b>The Nicholas Cage chipmunk version:</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FR15o9qhb_U" frameborder="0" allowfullscreen></iframe>
+<p><b>The Nicholas Cage chipmunk version:</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FR15o9qhb_U" frameborder="0" allowfullscreen></iframe></p>
 
 <hr>
 Read all installments of my Bridge to Carpathia series <a href="https://hsureads.github.io/category/bridge-to-carpathia/">here</a>.
