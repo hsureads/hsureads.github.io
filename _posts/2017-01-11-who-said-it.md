@@ -25,11 +25,11 @@ It's Carpathia but I had you until "true global harmony" didn't I? "Highly secur
 
 <h4><em>"Down to business. Let me begin by reminding you that this is not a democracy. We are not here to vote, and neither are you here to give me input. If there is something you believe I need to know, feel free to say so. If you have a problem with my leadership or have any questions about why I have done anything or about the plans I will reveal today, I remind you of the disposition of the three former potentates to the south who have been replaced due to their untimely deaths."</em></h4>
 
-Welp. This exercise in humor is becoming less and less humorous...
+Carpathia. But this exercise in humor is becoming less and less humorous...
 
 <h4><em>"Please meet Ashtaroth, Baal, and Cankerworm. They are the most convincing and persuasive spirits it has ever been my pleasure to know."</em></h4>
 
-Ok there is no way that Trump has friends that have such interesting and non-white names. Back on track, say it with me, "Trump is not Carpathia. Trump is not Carpathia."
+Carpathia and this one's obvious since there is no way that Trump has friends that have such interesting and non-white names. Back on track, say it with me, "Trump is not Carpathia. Trump is not Carpathia."
 
 <h4><em>"I come to offer pardon. I am willing to compromise. I wish you no ill."</em></h4>
 
