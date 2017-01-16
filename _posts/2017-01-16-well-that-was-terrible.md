@@ -11,7 +11,7 @@ I had no strong feelings about this book. It was more of the same, except Jesus 
 
 <p><b>Moment of silence for the dead:</b> Turns out it was Buck that was dead in the previous book. But everyone's alive again so wooo.</p>
 
-<p><b>Current excitement level:</b> 2. 1. More. Book.
+<p><b>Current excitement level:</b> 2. One. More. Book.
 
 <hr>
 Read all installments of my Bridge to Carpathia series <a href="https://hsureads.github.io/category/bridge-to-carpathia/">here</a>.
