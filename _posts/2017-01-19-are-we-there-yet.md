@@ -12,7 +12,7 @@ I finished book 13 on the plane today. It was appalling. I know I have complaine
 <li><b>A natural:</b> Someone who was living at the time of Jesus's return. You survived by being a believer or being a child. You age semi-naturally AKA very slowly or not past 100 (read on for more details). You still experience feelings.</li>
 <li><b>A glorified body:</b> A believer who died prior to Jesus's return and was chilling in heaven. You do not age and are permanently at your "prime" age. For instance Noah (yes, that Noah) looks like he is in his fifties. You do not really experience feelings particularly romantic feelings.</li></ol>
 
-The world still has technology and such but all believers wear white robes and everyone is vegetarian. In fact the book opens <strike>but not really since there's 40 pages of LaHaye and Jenkins prefacing the book that I skipped</strike> with this lovely paragraph:
+<p>The world still has technology and such but all believers wear white robes and everyone is vegetarian. In fact the book opens <strike>but not really since there's 40 pages of LaHaye and Jenkins prefacing the book that I skipped</strike> with this lovely paragraph:</p>
 <blockquote>Rayford Steele had to admit that the first time he saw a bear and then a leopard moving about in public, something niggled at him to keep his distance, to not show fear, to make no sudden movements. But when he saw the bear and the cat cooperate to climb a tree and make a meal of leaves and branches, he was emboldened to trust God for the whole promise. It wasn't just he who had become a vegetarian. It was true of all former carnivores.</blockquote>
 <p>Who can phrase things like Jenkins can? "Something niggled at him"??? "All former carnivores"??? Impressive.</p>
 
