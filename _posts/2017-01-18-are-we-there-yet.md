@@ -5,7 +5,7 @@ date: 2017-01-18
 summary: I finished book 13 on the plane today. It was appalling. I know I have complained about the previous twelve books but I swear this is by far the worst. I would rank this as the worst book I have ever read...
 categories: bridge-to-carpathia
 ---
-I finished book 13 on the plane today. It was appalling. I know I have complained about the previous twelve books but I swear this is by far the worst. I would rank this as the worst book I have ever read. I have never read <em>Twilight</em> but I think this is probably worse than that. As this will be my last post about the <em>Left Behind</em> series I have decided to go all out. You'll get plot synopsis and my favorite (read: worst) sections of the book. You're welcome.
+I finished book 13 on the plane today. It was appalling. I know I have complained about the previous twelve books but I swear this is by far the worst. I would rank this as the worst book I have ever read. I have never read <em>Twilight</em> but I think this is probably worse than that. As this will be my last post about the <em>Left Behind</em> series I have decided to go all out. You'll get plot synopsis and some choice sections of the book. You're welcome.
 
 <em>Kingdom Come</em> takes place after Jesus returns to Earth. We are not yet in heaven, there's still 1,000 years before that happens. If you're alive and not in Hell it means that you are one of the following:
 <ol>
