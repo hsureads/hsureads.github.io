@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We There Yet?
-date: 2017-01-19
+date: 2017-01-18
 summary: I finished book 13 on the plane today. It was appalling. I know I have complained about the previous twelve books but I swear this is by far the worst. I would rank this as the worst book I have ever read...
 categories: bridge-to-carpathia
 ---
@@ -45,7 +45,7 @@ I finished book 13 on the plane today. It was appalling. I know I have complaine
 
 <p><b>Moment of silence for the dead:</b> All of my brain cells</p>
 
-<b>Questions for your pastor:</b>
+<b>Question for your pastor:</b>
 <ol>
 <li>Can you put me in touch with a Christian publisher? I don't even want to be a writer but it seems like an easy way to make money if you can get this junk published.</li>
 </ol>
