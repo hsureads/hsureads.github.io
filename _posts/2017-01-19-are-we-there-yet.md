@@ -47,7 +47,7 @@ I finished book 13 on the plane today. It was appalling. I know I have complaine
 
 <b>Questions for your pastor:</b>
 <ol>
-<li>Can you put me in touch with a Christian publisher? I don't even want to be a writer but it seems like an easy way to make money if you can write like this.
+<li>Can you put me in touch with a Christian publisher? I don't even want to be a writer but it seems like an easy way to make money if you can get this junk published.
 </ol>
 
 <p><b>Current excitement level:</b> <strike>17. I AM SO EXCITED TO BE DONE AND TO READ SOMETHING THAT HAS ACTUAL WORTH.</strike> 1. Trump's presidency begins on Friday.</p>
