@@ -9,7 +9,7 @@ I finished book 13 on the plane today. It was appalling. I know I have complaine
 
 <em>Kingdom Come</em> takes place after Jesus returns to Earth. We are not yet in heaven, there's still 1,000 years before that happens. If you're alive and not in Hell it means that you are one of the following:
 <ol>
-<li><b>A natural:</b> Someone who was living at the time of Jesus's return. You survived by being a believer or being a child. You age semi-naturally. You still experience feelings.</li>
+<li><b>A natural:</b> Someone who was living at the time of Jesus's return. You survived by being a believer or being a child. You age semi-naturally AKA very slowly or not past 100 (read on for more details). You still experience feelings.</li>
 <li><b>A glorified body:</b> A believer who died prior to Jesus's return and was chilling in heaven. You do not age and are permanently at your "prime" age. For instance Noah (yes, that Noah) looks like he is in his fifties. You do not really experience feelings particularly romantic feelings.</li></ol>
 
 The world still has technology and such but all believers wear white robes and everyone is vegetarian. In fact the book opens <strike>but not really since there's 40 pages of LaHaye and Jenkins prefacing the book that I skipped</strike> with this lovely paragraph:
